@@ -13,7 +13,8 @@
       "totalAmount": 11.08,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 5"
+      "note": "Import historique, ligne 5",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-6",
@@ -28,7 +29,8 @@
       "totalAmount": 14.0,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 6"
+      "note": "Import historique, ligne 6",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-7",
@@ -43,7 +45,8 @@
       "totalAmount": 11.87,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 7"
+      "note": "Import historique, ligne 7",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-8",
@@ -58,7 +61,8 @@
       "totalAmount": 12.93,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 8"
+      "note": "Import historique, ligne 8",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-9",
@@ -73,7 +77,8 @@
       "totalAmount": 13.85,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 9"
+      "note": "Import historique, ligne 9",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-10",
@@ -88,7 +93,8 @@
       "totalAmount": 7.83,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 10"
+      "note": "Import historique, ligne 10",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-11",
@@ -103,7 +109,8 @@
       "totalAmount": 6.21,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 11"
+      "note": "Import historique, ligne 11",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-12",
@@ -118,7 +125,8 @@
       "totalAmount": 13.85,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 12"
+      "note": "Import historique, ligne 12",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-13",
@@ -133,7 +141,8 @@
       "totalAmount": 30.07,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 13"
+      "note": "Import historique, ligne 13",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-14",
@@ -148,7 +157,8 @@
       "totalAmount": 14.34,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 14"
+      "note": "Import historique, ligne 14",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-15",
@@ -163,7 +173,8 @@
       "totalAmount": 14.34,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 15"
+      "note": "Import historique, ligne 15",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-16",
@@ -178,7 +189,8 @@
       "totalAmount": 13.86,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 16"
+      "note": "Import historique, ligne 16",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-17",
@@ -193,7 +205,8 @@
       "totalAmount": 12.41,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 17"
+      "note": "Import historique, ligne 17",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-18",
@@ -208,7 +221,8 @@
       "totalAmount": 12.51,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 18"
+      "note": "Import historique, ligne 18",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-19",
@@ -223,7 +237,8 @@
       "totalAmount": 7.42,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 19"
+      "note": "Import historique, ligne 19",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-20",
@@ -238,7 +253,8 @@
       "totalAmount": 7.28,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 20"
+      "note": "Import historique, ligne 20",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-21",
@@ -253,7 +269,8 @@
       "totalAmount": 9.0,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 21"
+      "note": "Import historique, ligne 21",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-22",
@@ -268,7 +285,8 @@
       "totalAmount": 6.92,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 22"
+      "note": "Import historique, ligne 22",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-23",
@@ -283,7 +301,8 @@
       "totalAmount": 6.92,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 23"
+      "note": "Import historique, ligne 23",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-24",
@@ -298,7 +317,8 @@
       "totalAmount": 6.99,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 24"
+      "note": "Import historique, ligne 24",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-25",
@@ -313,7 +333,8 @@
       "totalAmount": 6.92,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 25"
+      "note": "Import historique, ligne 25",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-26",
@@ -328,7 +349,8 @@
       "totalAmount": 6.92,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 26"
+      "note": "Import historique, ligne 26",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-27",
@@ -343,7 +365,8 @@
       "totalAmount": 9.89,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 27"
+      "note": "Import historique, ligne 27",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-28",
@@ -358,7 +381,8 @@
       "totalAmount": 8.41,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 28"
+      "note": "Import historique, ligne 28",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-29",
@@ -373,7 +397,8 @@
       "totalAmount": 8.41,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 29"
+      "note": "Import historique, ligne 29",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-30",
@@ -388,7 +413,8 @@
       "totalAmount": 12.03,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 30"
+      "note": "Import historique, ligne 30",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-31",
@@ -403,7 +429,8 @@
       "totalAmount": 6.92,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 31"
+      "note": "Import historique, ligne 31",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-32",
@@ -418,7 +445,8 @@
       "totalAmount": 6.92,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 32"
+      "note": "Import historique, ligne 32",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-33",
@@ -433,7 +461,8 @@
       "totalAmount": 6.64,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 33"
+      "note": "Import historique, ligne 33",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-34",
@@ -448,7 +477,8 @@
       "totalAmount": 6.92,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 34"
+      "note": "Import historique, ligne 34",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-35",
@@ -463,7 +493,8 @@
       "totalAmount": 13.85,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 35"
+      "note": "Import historique, ligne 35",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-36",
@@ -478,7 +509,8 @@
       "totalAmount": 6.93,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 36"
+      "note": "Import historique, ligne 36",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-37",
@@ -493,7 +525,8 @@
       "totalAmount": 6.92,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 37"
+      "note": "Import historique, ligne 37",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-38",
@@ -508,7 +541,8 @@
       "totalAmount": 6.93,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 38"
+      "note": "Import historique, ligne 38",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-39",
@@ -523,7 +557,8 @@
       "totalAmount": 6.92,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 39"
+      "note": "Import historique, ligne 39",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-40",
@@ -538,7 +573,8 @@
       "totalAmount": 11.0427342,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 40"
+      "note": "Import historique, ligne 40",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-41",
@@ -553,7 +589,8 @@
       "totalAmount": 10.80744,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 41"
+      "note": "Import historique, ligne 41",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-42",
@@ -568,7 +605,8 @@
       "totalAmount": 12.8452667,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 42"
+      "note": "Import historique, ligne 42",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-43",
@@ -583,7 +621,8 @@
       "totalAmount": 12.759605,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 43"
+      "note": "Import historique, ligne 43",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-44",
@@ -598,7 +637,8 @@
       "totalAmount": 22.93,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 44"
+      "note": "Import historique, ligne 44",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-45",
@@ -613,7 +653,8 @@
       "totalAmount": 83.22460684,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 45"
+      "note": "Import historique, ligne 45",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-46",
@@ -628,7 +669,8 @@
       "totalAmount": 80.3673564,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 46"
+      "note": "Import historique, ligne 46",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-47",
@@ -643,7 +685,8 @@
       "totalAmount": 22.6322235,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 47"
+      "note": "Import historique, ligne 47",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-48",
@@ -658,7 +701,8 @@
       "totalAmount": 24.68,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 48"
+      "note": "Import historique, ligne 48",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-49",
@@ -673,7 +717,8 @@
       "totalAmount": 45.6337176,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 49"
+      "note": "Import historique, ligne 49",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-50",
@@ -688,7 +733,8 @@
       "totalAmount": 80.1782622,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 50"
+      "note": "Import historique, ligne 50",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-51",
@@ -703,7 +749,8 @@
       "totalAmount": 81.671081,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 51"
+      "note": "Import historique, ligne 51",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-52",
@@ -718,7 +765,8 @@
       "totalAmount": 73.21,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 52"
+      "note": "Import historique, ligne 52",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-53",
@@ -733,7 +781,8 @@
       "totalAmount": 52.24,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 53"
+      "note": "Import historique, ligne 53",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-54",
@@ -748,7 +797,8 @@
       "totalAmount": 52.15,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 54"
+      "note": "Import historique, ligne 54",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-55",
@@ -763,7 +813,8 @@
       "totalAmount": 52.771323,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 55"
+      "note": "Import historique, ligne 55",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-56",
@@ -778,7 +829,8 @@
       "totalAmount": 0,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 56 — date d’origine absente"
+      "note": "Import historique, ligne 56 — date d’origine absente",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-57",
@@ -793,7 +845,8 @@
       "totalAmount": 0,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 57 — date d’origine absente"
+      "note": "Import historique, ligne 57 — date d’origine absente",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-59",
@@ -808,7 +861,8 @@
       "totalAmount": 86.0,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 59"
+      "note": "Import historique, ligne 59",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-60",
@@ -823,7 +877,8 @@
       "totalAmount": 147.67,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 60"
+      "note": "Import historique, ligne 60",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-61",
@@ -838,7 +893,8 @@
       "totalAmount": 0,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 61 — date d’origine absente"
+      "note": "Import historique, ligne 61 — date d’origine absente",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-63",
@@ -853,7 +909,8 @@
       "totalAmount": 74.79,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 63"
+      "note": "Import historique, ligne 63",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-65",
@@ -868,7 +925,8 @@
       "totalAmount": 195.0,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 65"
+      "note": "Import historique, ligne 65",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-66",
@@ -883,7 +941,8 @@
       "totalAmount": 34.5,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 66 — date d’origine absente"
+      "note": "Import historique, ligne 66 — date d’origine absente",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-67",
@@ -898,7 +957,8 @@
       "totalAmount": 645.9245,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 67 — date d’origine absente"
+      "note": "Import historique, ligne 67 — date d’origine absente",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-68",
@@ -913,7 +973,8 @@
       "totalAmount": 711.47,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 68 — date d’origine absente"
+      "note": "Import historique, ligne 68 — date d’origine absente",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-69",
@@ -928,7 +989,8 @@
       "totalAmount": 336.702,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 69 — date d’origine absente"
+      "note": "Import historique, ligne 69 — date d’origine absente",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-70",
@@ -943,7 +1005,8 @@
       "totalAmount": 199.8599967,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 70"
+      "note": "Import historique, ligne 70",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-71",
@@ -958,7 +1021,8 @@
       "totalAmount": 504.069,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 71 — date d’origine absente"
+      "note": "Import historique, ligne 71 — date d’origine absente",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-72",
@@ -973,7 +1037,8 @@
       "totalAmount": 150.075,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 72"
+      "note": "Import historique, ligne 72",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-73",
@@ -988,7 +1053,8 @@
       "totalAmount": 300.86,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 73"
+      "note": "Import historique, ligne 73",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-75",
@@ -1003,7 +1069,8 @@
       "totalAmount": 586.96475,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 75"
+      "note": "Import historique, ligne 75",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-76",
@@ -1018,7 +1085,8 @@
       "totalAmount": 500.384,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 76"
+      "note": "Import historique, ligne 76",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "btc-crypto-77",
@@ -1033,7 +1101,8 @@
       "totalAmount": 998.88,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 77"
+      "note": "Import historique, ligne 77",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-5",
@@ -1048,7 +1117,8 @@
       "totalAmount": 11.08,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 5"
+      "note": "Import historique, ligne 5",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-6",
@@ -1063,7 +1133,8 @@
       "totalAmount": 14.01,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 6"
+      "note": "Import historique, ligne 6",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-7",
@@ -1078,7 +1149,8 @@
       "totalAmount": 11.86,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 7"
+      "note": "Import historique, ligne 7",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-8",
@@ -1093,7 +1165,8 @@
       "totalAmount": 12.93,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 8"
+      "note": "Import historique, ligne 8",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-9",
@@ -1108,7 +1181,8 @@
       "totalAmount": 13.84,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 9"
+      "note": "Import historique, ligne 9",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-10",
@@ -1123,7 +1197,8 @@
       "totalAmount": 7.83,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 10"
+      "note": "Import historique, ligne 10",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-11",
@@ -1138,7 +1213,8 @@
       "totalAmount": 6.21,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 11"
+      "note": "Import historique, ligne 11",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-12",
@@ -1153,7 +1229,8 @@
       "totalAmount": 13.86,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 12"
+      "note": "Import historique, ligne 12",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-13",
@@ -1168,7 +1245,8 @@
       "totalAmount": 30.03,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 13"
+      "note": "Import historique, ligne 13",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-14",
@@ -1183,7 +1261,8 @@
       "totalAmount": 14.36,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 14"
+      "note": "Import historique, ligne 14",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-15",
@@ -1198,7 +1277,8 @@
       "totalAmount": 5.99,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 15"
+      "note": "Import historique, ligne 15",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-16",
@@ -1213,7 +1293,8 @@
       "totalAmount": 8.4,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 16"
+      "note": "Import historique, ligne 16",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-17",
@@ -1228,7 +1309,8 @@
       "totalAmount": 13.85,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 17"
+      "note": "Import historique, ligne 17",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-18",
@@ -1243,7 +1325,8 @@
       "totalAmount": 7.32,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 18"
+      "note": "Import historique, ligne 18",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-19",
@@ -1258,7 +1341,8 @@
       "totalAmount": 7.25,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 19"
+      "note": "Import historique, ligne 19",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-20",
@@ -1273,7 +1357,8 @@
       "totalAmount": 17.77,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 20"
+      "note": "Import historique, ligne 20",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-21",
@@ -1288,7 +1373,8 @@
       "totalAmount": 5.71,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 21"
+      "note": "Import historique, ligne 21",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-22",
@@ -1303,7 +1389,8 @@
       "totalAmount": 5.72,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 22"
+      "note": "Import historique, ligne 22",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-23",
@@ -1318,7 +1405,8 @@
       "totalAmount": 12.4,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 23"
+      "note": "Import historique, ligne 23",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-24",
@@ -1333,7 +1421,8 @@
       "totalAmount": 9.89,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 24"
+      "note": "Import historique, ligne 24",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-25",
@@ -1348,7 +1437,8 @@
       "totalAmount": 9.9,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 25"
+      "note": "Import historique, ligne 25",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-26",
@@ -1363,7 +1453,8 @@
       "totalAmount": 9.07,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 26"
+      "note": "Import historique, ligne 26",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-27",
@@ -1378,7 +1469,8 @@
       "totalAmount": 9.88,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 27"
+      "note": "Import historique, ligne 27",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-28",
@@ -1393,7 +1485,8 @@
       "totalAmount": 9.9,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 28"
+      "note": "Import historique, ligne 28",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-29",
@@ -1408,7 +1501,8 @@
       "totalAmount": 11.15,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 29"
+      "note": "Import historique, ligne 29",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-30",
@@ -1423,7 +1517,8 @@
       "totalAmount": 8.92,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 30"
+      "note": "Import historique, ligne 30",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-31",
@@ -1438,7 +1533,8 @@
       "totalAmount": 8.91,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 31"
+      "note": "Import historique, ligne 31",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-32",
@@ -1453,7 +1549,8 @@
       "totalAmount": 13.86,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 32"
+      "note": "Import historique, ligne 32",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-33",
@@ -1468,7 +1565,8 @@
       "totalAmount": 11.37,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 33"
+      "note": "Import historique, ligne 33",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-34",
@@ -1483,7 +1581,8 @@
       "totalAmount": 11.37,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 34"
+      "note": "Import historique, ligne 34",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-35",
@@ -1498,7 +1597,8 @@
       "totalAmount": 17.8,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 35"
+      "note": "Import historique, ligne 35",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-36",
@@ -1513,7 +1613,8 @@
       "totalAmount": 7.41,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 36"
+      "note": "Import historique, ligne 36",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-37",
@@ -1528,7 +1629,8 @@
       "totalAmount": 7.42,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 37"
+      "note": "Import historique, ligne 37",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-38",
@@ -1543,7 +1645,8 @@
       "totalAmount": 7.4,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 38"
+      "note": "Import historique, ligne 38",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-39",
@@ -1558,7 +1661,8 @@
       "totalAmount": 6.66,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 39"
+      "note": "Import historique, ligne 39",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-40",
@@ -1573,7 +1677,8 @@
       "totalAmount": 9.89,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 40"
+      "note": "Import historique, ligne 40",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-41",
@@ -1588,7 +1693,8 @@
       "totalAmount": 9.14,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 41"
+      "note": "Import historique, ligne 41",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-42",
@@ -1603,7 +1709,8 @@
       "totalAmount": 9.92,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 42"
+      "note": "Import historique, ligne 42",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-43",
@@ -1618,7 +1725,8 @@
       "totalAmount": 9.9,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 43"
+      "note": "Import historique, ligne 43",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-44",
@@ -1633,7 +1741,8 @@
       "totalAmount": 9.89,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 44"
+      "note": "Import historique, ligne 44",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-45",
@@ -1648,7 +1757,8 @@
       "totalAmount": 9.9,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 45"
+      "note": "Import historique, ligne 45",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-46",
@@ -1663,7 +1773,8 @@
       "totalAmount": 9.89,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 46"
+      "note": "Import historique, ligne 46",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-47",
@@ -1678,7 +1789,8 @@
       "totalAmount": 13.682332,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 47"
+      "note": "Import historique, ligne 47",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-48",
@@ -1693,7 +1805,8 @@
       "totalAmount": 13.922076,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 48"
+      "note": "Import historique, ligne 48",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-49",
@@ -1708,7 +1821,8 @@
       "totalAmount": 16.186807,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 49"
+      "note": "Import historique, ligne 49",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-50",
@@ -1723,7 +1837,8 @@
       "totalAmount": 15.837792,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 50"
+      "note": "Import historique, ligne 50",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-51",
@@ -1738,7 +1853,8 @@
       "totalAmount": 24.58,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 51"
+      "note": "Import historique, ligne 51",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-52",
@@ -1753,7 +1869,8 @@
       "totalAmount": 81.22256775,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 52"
+      "note": "Import historique, ligne 52",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-53",
@@ -1768,7 +1885,8 @@
       "totalAmount": 79.713248,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 53"
+      "note": "Import historique, ligne 53",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-54",
@@ -1783,7 +1901,8 @@
       "totalAmount": 24.14,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 54"
+      "note": "Import historique, ligne 54",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-55",
@@ -1798,7 +1917,8 @@
       "totalAmount": 24.46,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 55"
+      "note": "Import historique, ligne 55",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-56",
@@ -1813,7 +1933,8 @@
       "totalAmount": 47.445132,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 56"
+      "note": "Import historique, ligne 56",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-57",
@@ -1828,7 +1949,8 @@
       "totalAmount": 80.19456,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 57"
+      "note": "Import historique, ligne 57",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-58",
@@ -1843,7 +1965,8 @@
       "totalAmount": 81.732186,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 58"
+      "note": "Import historique, ligne 58",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-59",
@@ -1858,7 +1981,8 @@
       "totalAmount": 76.53,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 59"
+      "note": "Import historique, ligne 59",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-60",
@@ -1873,7 +1997,8 @@
       "totalAmount": 78.1,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 60"
+      "note": "Import historique, ligne 60",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-61",
@@ -1888,7 +2013,8 @@
       "totalAmount": 55.91,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 61"
+      "note": "Import historique, ligne 61",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-62",
@@ -1903,7 +2029,8 @@
       "totalAmount": 55.69,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 62"
+      "note": "Import historique, ligne 62",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-63",
@@ -1918,7 +2045,8 @@
       "totalAmount": 56.339826,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 63"
+      "note": "Import historique, ligne 63",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-64",
@@ -1933,7 +2061,8 @@
       "totalAmount": 54.817826,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 64"
+      "note": "Import historique, ligne 64",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-65",
@@ -1948,7 +2077,8 @@
       "totalAmount": 0,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 65 — date d’origine absente"
+      "note": "Import historique, ligne 65 — date d’origine absente",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-66",
@@ -1963,7 +2093,8 @@
       "totalAmount": 0,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 66 — date d’origine absente"
+      "note": "Import historique, ligne 66 — date d’origine absente",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-67",
@@ -1978,7 +2109,8 @@
       "totalAmount": 0,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 67 — date d’origine absente"
+      "note": "Import historique, ligne 67 — date d’origine absente",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-68",
@@ -1993,7 +2125,8 @@
       "totalAmount": 214.35,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 68 — date d’origine absente"
+      "note": "Import historique, ligne 68 — date d’origine absente",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-principal-69",
@@ -2008,7 +2141,8 @@
       "totalAmount": 351.0,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 69"
+      "note": "Import historique, ligne 69",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-5",
@@ -2023,7 +2157,8 @@
       "totalAmount": 6.91,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 5"
+      "note": "Import historique, ligne 5",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-6",
@@ -2038,7 +2173,8 @@
       "totalAmount": 2.56,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 6"
+      "note": "Import historique, ligne 6",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-7",
@@ -2053,7 +2189,8 @@
       "totalAmount": 3.87,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 7"
+      "note": "Import historique, ligne 7",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-8",
@@ -2068,7 +2205,8 @@
       "totalAmount": 5.75,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 8"
+      "note": "Import historique, ligne 8",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-9",
@@ -2083,7 +2221,8 @@
       "totalAmount": 3.23,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 9"
+      "note": "Import historique, ligne 9",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-10",
@@ -2098,7 +2237,8 @@
       "totalAmount": 3.59,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 10"
+      "note": "Import historique, ligne 10",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-11",
@@ -2113,7 +2253,8 @@
       "totalAmount": 3.76,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 11"
+      "note": "Import historique, ligne 11",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-12",
@@ -2128,7 +2269,8 @@
       "totalAmount": 3.44,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 12"
+      "note": "Import historique, ligne 12",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-13",
@@ -2143,7 +2285,8 @@
       "totalAmount": 3.26,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 13"
+      "note": "Import historique, ligne 13",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-14",
@@ -2158,7 +2301,8 @@
       "totalAmount": 3.91,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 14"
+      "note": "Import historique, ligne 14",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-15",
@@ -2173,7 +2317,8 @@
       "totalAmount": 3.83,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 15"
+      "note": "Import historique, ligne 15",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-16",
@@ -2188,7 +2333,8 @@
       "totalAmount": 3.09,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 16"
+      "note": "Import historique, ligne 16",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-17",
@@ -2203,7 +2349,8 @@
       "totalAmount": 7.93,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 17"
+      "note": "Import historique, ligne 17",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-18",
@@ -2218,7 +2365,8 @@
       "totalAmount": 13.08,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 18"
+      "note": "Import historique, ligne 18",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-19",
@@ -2233,7 +2381,8 @@
       "totalAmount": 12.32,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 19"
+      "note": "Import historique, ligne 19",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-20",
@@ -2248,7 +2397,8 @@
       "totalAmount": 39.93,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 20"
+      "note": "Import historique, ligne 20",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-21",
@@ -2263,7 +2413,8 @@
       "totalAmount": 17.88,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 21"
+      "note": "Import historique, ligne 21",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-22",
@@ -2278,7 +2429,8 @@
       "totalAmount": 12.08,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 22"
+      "note": "Import historique, ligne 22",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-23",
@@ -2293,7 +2445,8 @@
       "totalAmount": 21.29,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 23"
+      "note": "Import historique, ligne 23",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-24",
@@ -2308,7 +2461,8 @@
       "totalAmount": 34.29,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 24"
+      "note": "Import historique, ligne 24",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-25",
@@ -2323,7 +2477,8 @@
       "totalAmount": 19.69,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 25"
+      "note": "Import historique, ligne 25",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-26",
@@ -2338,7 +2493,8 @@
       "totalAmount": 13.78,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 26"
+      "note": "Import historique, ligne 26",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-27",
@@ -2353,7 +2509,8 @@
       "totalAmount": 13.79,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 27"
+      "note": "Import historique, ligne 27",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-28",
@@ -2368,7 +2525,8 @@
       "totalAmount": 13.8,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 28"
+      "note": "Import historique, ligne 28",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-29",
@@ -2383,7 +2541,8 @@
       "totalAmount": 13.58,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 29"
+      "note": "Import historique, ligne 29",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-30",
@@ -2398,7 +2557,8 @@
       "totalAmount": 13.77,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 30"
+      "note": "Import historique, ligne 30",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-31",
@@ -2413,7 +2573,8 @@
       "totalAmount": 13.63,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 31"
+      "note": "Import historique, ligne 31",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-32",
@@ -2428,7 +2589,8 @@
       "totalAmount": 98.43,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 32"
+      "note": "Import historique, ligne 32",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-33",
@@ -2443,7 +2605,8 @@
       "totalAmount": 98.64,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 33"
+      "note": "Import historique, ligne 33",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-34",
@@ -2458,7 +2621,8 @@
       "totalAmount": 53.19,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 34"
+      "note": "Import historique, ligne 34",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-35",
@@ -2473,7 +2637,8 @@
       "totalAmount": 24.58,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 35"
+      "note": "Import historique, ligne 35",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-36",
@@ -2488,7 +2653,8 @@
       "totalAmount": 106.54,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 36"
+      "note": "Import historique, ligne 36",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-37",
@@ -2503,7 +2669,8 @@
       "totalAmount": 13.64,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 37"
+      "note": "Import historique, ligne 37",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-38",
@@ -2518,7 +2685,8 @@
       "totalAmount": 59.17,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 38"
+      "note": "Import historique, ligne 38",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-39",
@@ -2533,7 +2701,8 @@
       "totalAmount": 71.32,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 39"
+      "note": "Import historique, ligne 39",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-40",
@@ -2548,7 +2717,8 @@
       "totalAmount": 68.96,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 40"
+      "note": "Import historique, ligne 40",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-41",
@@ -2563,7 +2733,8 @@
       "totalAmount": 156.48,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 41"
+      "note": "Import historique, ligne 41",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "link-crypto-42",
@@ -2578,7 +2749,8 @@
       "totalAmount": 117.56,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 42"
+      "note": "Import historique, ligne 42",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-secondaire-5",
@@ -2593,7 +2765,8 @@
       "totalAmount": 199.7158,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 5"
+      "note": "Import historique, ligne 5",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-secondaire-6",
@@ -2608,7 +2781,8 @@
       "totalAmount": 79.38,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 6"
+      "note": "Import historique, ligne 6",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-secondaire-7",
@@ -2623,7 +2797,8 @@
       "totalAmount": 73.225,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 7"
+      "note": "Import historique, ligne 7",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-secondaire-8",
@@ -2638,7 +2813,8 @@
       "totalAmount": 75.305613,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 8"
+      "note": "Import historique, ligne 8",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-secondaire-9",
@@ -2653,7 +2829,8 @@
       "totalAmount": 60.48,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 9"
+      "note": "Import historique, ligne 9",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-secondaire-10",
@@ -2668,7 +2845,8 @@
       "totalAmount": 57.246,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 10"
+      "note": "Import historique, ligne 10",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-secondaire-11",
@@ -2683,7 +2861,8 @@
       "totalAmount": 49.9670016,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 11"
+      "note": "Import historique, ligne 11",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-secondaire-12",
@@ -2698,7 +2877,8 @@
       "totalAmount": 0,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 12"
+      "note": "Import historique, ligne 12",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-secondaire-13",
@@ -2713,7 +2893,8 @@
       "totalAmount": 78.67,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 13"
+      "note": "Import historique, ligne 13",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-secondaire-14",
@@ -2728,7 +2909,8 @@
       "totalAmount": 83.24,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 14"
+      "note": "Import historique, ligne 14",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-secondaire-15",
@@ -2743,7 +2925,8 @@
       "totalAmount": 147.63,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 15"
+      "note": "Import historique, ligne 15",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-secondaire-16",
@@ -2758,7 +2941,8 @@
       "totalAmount": 198.9,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 16"
+      "note": "Import historique, ligne 16",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-secondaire-17",
@@ -2773,7 +2957,8 @@
       "totalAmount": 157.43,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 17"
+      "note": "Import historique, ligne 17",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-secondaire-18",
@@ -2788,7 +2973,8 @@
       "totalAmount": 168.07,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 18"
+      "note": "Import historique, ligne 18",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-secondaire-19",
@@ -2803,7 +2989,8 @@
       "totalAmount": 148.13,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 19"
+      "note": "Import historique, ligne 19",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-secondaire-20",
@@ -2818,7 +3005,8 @@
       "totalAmount": 148.13,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 20"
+      "note": "Import historique, ligne 20",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-secondaire-21",
@@ -2833,7 +3021,8 @@
       "totalAmount": 136.23,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 21"
+      "note": "Import historique, ligne 21",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-secondaire-22",
@@ -2848,7 +3037,8 @@
       "totalAmount": 105.14,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 22"
+      "note": "Import historique, ligne 22",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-secondaire-23",
@@ -2863,7 +3053,8 @@
       "totalAmount": 105.14,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 23"
+      "note": "Import historique, ligne 23",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-secondaire-24",
@@ -2878,7 +3069,8 @@
       "totalAmount": 124.31,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 24"
+      "note": "Import historique, ligne 24",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-secondaire-25",
@@ -2893,7 +3085,8 @@
       "totalAmount": 124.3,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 25"
+      "note": "Import historique, ligne 25",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-secondaire-26",
@@ -2908,7 +3101,8 @@
       "totalAmount": 164.79,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 26"
+      "note": "Import historique, ligne 26",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-secondaire-27",
@@ -2923,7 +3117,8 @@
       "totalAmount": 288.3,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 27"
+      "note": "Import historique, ligne 27",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-secondaire-28",
@@ -2938,7 +3133,8 @@
       "totalAmount": 60.33,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 28"
+      "note": "Import historique, ligne 28",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-secondaire-29",
@@ -2953,7 +3149,8 @@
       "totalAmount": 48.82,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 29"
+      "note": "Import historique, ligne 29",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-secondaire-30",
@@ -2968,7 +3165,8 @@
       "totalAmount": 67.26,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 30"
+      "note": "Import historique, ligne 30",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-secondaire-31",
@@ -2983,7 +3181,8 @@
       "totalAmount": 0,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 31 — date d’origine absente"
+      "note": "Import historique, ligne 31 — date d’origine absente",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-secondaire-33",
@@ -2998,7 +3197,8 @@
       "totalAmount": 36.81,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 33"
+      "note": "Import historique, ligne 33",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "eth-eth-secondaire-34",
@@ -3013,7 +3213,8 @@
       "totalAmount": 133.32,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 34"
+      "note": "Import historique, ligne 34",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "tia-crypto-5",
@@ -3028,7 +3229,8 @@
       "totalAmount": 108.91,
       "fees": 0,
       "currency": "USD",
-      "note": "Import historique, ligne 5"
+      "note": "Import historique, ligne 5",
+      "sourceSheet": "DCA CRYPTO"
     },
     {
       "id": "sp500-etf-s&p-500-5",
@@ -3043,7 +3245,8 @@
       "totalAmount": 24.98,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 5"
+      "note": "Import historique, ligne 5",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-6",
@@ -3058,7 +3261,8 @@
       "totalAmount": 24.96,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 6"
+      "note": "Import historique, ligne 6",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-7",
@@ -3073,7 +3277,8 @@
       "totalAmount": 24.99,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 7"
+      "note": "Import historique, ligne 7",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-8",
@@ -3088,7 +3293,8 @@
       "totalAmount": 49.98,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 8"
+      "note": "Import historique, ligne 8",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-9",
@@ -3103,7 +3309,8 @@
       "totalAmount": 49.97,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 9"
+      "note": "Import historique, ligne 9",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-10",
@@ -3118,7 +3325,8 @@
       "totalAmount": 49.98,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 10"
+      "note": "Import historique, ligne 10",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-11",
@@ -3133,7 +3341,8 @@
       "totalAmount": 49.99,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 11"
+      "note": "Import historique, ligne 11",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-12",
@@ -3148,7 +3357,8 @@
       "totalAmount": 24.99,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 12"
+      "note": "Import historique, ligne 12",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-13",
@@ -3163,7 +3373,8 @@
       "totalAmount": 25.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 13"
+      "note": "Import historique, ligne 13",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-14",
@@ -3178,7 +3389,8 @@
       "totalAmount": 24.99,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 14"
+      "note": "Import historique, ligne 14",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-15",
@@ -3193,7 +3405,8 @@
       "totalAmount": 24.99,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 15"
+      "note": "Import historique, ligne 15",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-16",
@@ -3208,7 +3421,8 @@
       "totalAmount": 36.98,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 16"
+      "note": "Import historique, ligne 16",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-17",
@@ -3223,7 +3437,8 @@
       "totalAmount": 36.96,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 17"
+      "note": "Import historique, ligne 17",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-18",
@@ -3238,7 +3453,8 @@
       "totalAmount": 24.98,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 18"
+      "note": "Import historique, ligne 18",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-19",
@@ -3253,7 +3469,8 @@
       "totalAmount": 24.99,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 19"
+      "note": "Import historique, ligne 19",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-20",
@@ -3268,7 +3485,8 @@
       "totalAmount": 24.97,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 20"
+      "note": "Import historique, ligne 20",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-21",
@@ -3283,7 +3501,8 @@
       "totalAmount": 24.99,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 21"
+      "note": "Import historique, ligne 21",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-22",
@@ -3298,7 +3517,8 @@
       "totalAmount": 25.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 22"
+      "note": "Import historique, ligne 22",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-23",
@@ -3313,7 +3533,8 @@
       "totalAmount": 25.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 23"
+      "note": "Import historique, ligne 23",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-24",
@@ -3328,7 +3549,8 @@
       "totalAmount": 25.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 24"
+      "note": "Import historique, ligne 24",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-25",
@@ -3343,7 +3565,8 @@
       "totalAmount": 25.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 25"
+      "note": "Import historique, ligne 25",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-26",
@@ -3358,7 +3581,8 @@
       "totalAmount": 25.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 26"
+      "note": "Import historique, ligne 26",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-27",
@@ -3373,7 +3597,8 @@
       "totalAmount": 25.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 27"
+      "note": "Import historique, ligne 27",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-28",
@@ -3388,7 +3613,8 @@
       "totalAmount": 25.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 28"
+      "note": "Import historique, ligne 28",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-29",
@@ -3403,7 +3629,8 @@
       "totalAmount": 25.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 29"
+      "note": "Import historique, ligne 29",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-30",
@@ -3418,7 +3645,8 @@
       "totalAmount": 25.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 30"
+      "note": "Import historique, ligne 30",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-31",
@@ -3433,7 +3661,8 @@
       "totalAmount": 25.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 31"
+      "note": "Import historique, ligne 31",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-32",
@@ -3448,7 +3677,8 @@
       "totalAmount": 25.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 32"
+      "note": "Import historique, ligne 32",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-33",
@@ -3463,7 +3693,8 @@
       "totalAmount": 25.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 33"
+      "note": "Import historique, ligne 33",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-34",
@@ -3478,7 +3709,8 @@
       "totalAmount": 25.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 34"
+      "note": "Import historique, ligne 34",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-35",
@@ -3493,7 +3725,8 @@
       "totalAmount": 25.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 35"
+      "note": "Import historique, ligne 35",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-36",
@@ -3508,7 +3741,8 @@
       "totalAmount": 25.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 36"
+      "note": "Import historique, ligne 36",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-37",
@@ -3523,7 +3757,8 @@
       "totalAmount": 25.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 37"
+      "note": "Import historique, ligne 37",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-38",
@@ -3538,7 +3773,8 @@
       "totalAmount": 25.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 38"
+      "note": "Import historique, ligne 38",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-39",
@@ -3553,7 +3789,8 @@
       "totalAmount": 30.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 39"
+      "note": "Import historique, ligne 39",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-40",
@@ -3568,7 +3805,8 @@
       "totalAmount": 30.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 40"
+      "note": "Import historique, ligne 40",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-41",
@@ -3583,7 +3821,8 @@
       "totalAmount": 30.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 41"
+      "note": "Import historique, ligne 41",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-42",
@@ -3598,7 +3837,8 @@
       "totalAmount": 30.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 42"
+      "note": "Import historique, ligne 42",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-43",
@@ -3613,7 +3853,8 @@
       "totalAmount": 30.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 43"
+      "note": "Import historique, ligne 43",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-44",
@@ -3628,7 +3869,8 @@
       "totalAmount": 30.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 44"
+      "note": "Import historique, ligne 44",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-45",
@@ -3643,7 +3885,8 @@
       "totalAmount": 30.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 45"
+      "note": "Import historique, ligne 45",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-46",
@@ -3658,7 +3901,8 @@
       "totalAmount": 30.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 46"
+      "note": "Import historique, ligne 46",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-47",
@@ -3673,7 +3917,8 @@
       "totalAmount": 30.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 47"
+      "note": "Import historique, ligne 47",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-48",
@@ -3688,7 +3933,8 @@
       "totalAmount": 30.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 48"
+      "note": "Import historique, ligne 48",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-49",
@@ -3703,7 +3949,8 @@
       "totalAmount": 30.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 49"
+      "note": "Import historique, ligne 49",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-50",
@@ -3718,7 +3965,8 @@
       "totalAmount": 30.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 50"
+      "note": "Import historique, ligne 50",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-51",
@@ -3733,7 +3981,8 @@
       "totalAmount": 30.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 51"
+      "note": "Import historique, ligne 51",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-52",
@@ -3748,7 +3997,8 @@
       "totalAmount": 30.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 52"
+      "note": "Import historique, ligne 52",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-53",
@@ -3763,7 +4013,8 @@
       "totalAmount": 30.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 53"
+      "note": "Import historique, ligne 53",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-54",
@@ -3778,7 +4029,8 @@
       "totalAmount": 30.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 54"
+      "note": "Import historique, ligne 54",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-55",
@@ -3793,7 +4045,8 @@
       "totalAmount": 30.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 55"
+      "note": "Import historique, ligne 55",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-56",
@@ -3808,7 +4061,8 @@
       "totalAmount": 30.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 56"
+      "note": "Import historique, ligne 56",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "sp500-etf-s&p-500-57",
@@ -3823,7 +4077,8 @@
       "totalAmount": 30.0,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 57"
+      "note": "Import historique, ligne 57",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "world-etf-world-5",
@@ -3838,7 +4093,8 @@
       "totalAmount": 101.94,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 5"
+      "note": "Import historique, ligne 5",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "world-etf-world-6",
@@ -3853,7 +4109,8 @@
       "totalAmount": 100.71,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 6"
+      "note": "Import historique, ligne 6",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "world-etf-world-7",
@@ -3868,7 +4125,8 @@
       "totalAmount": 284.75,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 7"
+      "note": "Import historique, ligne 7",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "world-etf-world-8",
@@ -3883,7 +4141,8 @@
       "totalAmount": 103.45,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 8"
+      "note": "Import historique, ligne 8",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "world-etf-world-9",
@@ -3898,7 +4157,8 @@
       "totalAmount": 126.62,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 9"
+      "note": "Import historique, ligne 9",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "world-etf-world-10",
@@ -3913,7 +4173,8 @@
       "totalAmount": 234.95,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 10"
+      "note": "Import historique, ligne 10",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "world-etf-world-11",
@@ -3928,7 +4189,8 @@
       "totalAmount": 244.5,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 11"
+      "note": "Import historique, ligne 11",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "world-etf-world-12",
@@ -3943,7 +4205,8 @@
       "totalAmount": 232.43,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 12"
+      "note": "Import historique, ligne 12",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "world-etf-world-13",
@@ -3958,7 +4221,8 @@
       "totalAmount": 262.84,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 13"
+      "note": "Import historique, ligne 13",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "world-etf-world-14",
@@ -3973,7 +4237,8 @@
       "totalAmount": 241.23,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 14"
+      "note": "Import historique, ligne 14",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "world-etf-world-15",
@@ -3988,7 +4253,8 @@
       "totalAmount": 237.39,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 15"
+      "note": "Import historique, ligne 15",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "world-etf-world-16",
@@ -4003,7 +4269,8 @@
       "totalAmount": 220.13,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 16"
+      "note": "Import historique, ligne 16",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "world-etf-world-17",
@@ -4018,7 +4285,8 @@
       "totalAmount": 327.05,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 17"
+      "note": "Import historique, ligne 17",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "world-etf-world-18",
@@ -4033,7 +4301,8 @@
       "totalAmount": 259.42,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 18"
+      "note": "Import historique, ligne 18",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "world-etf-world-19",
@@ -4048,7 +4317,8 @@
       "totalAmount": 330.59,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 19"
+      "note": "Import historique, ligne 19",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "world-etf-world-20",
@@ -4063,7 +4333,8 @@
       "totalAmount": 269.55,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 20"
+      "note": "Import historique, ligne 20",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "world-etf-world-21",
@@ -4078,7 +4349,8 @@
       "totalAmount": 274.49,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 21"
+      "note": "Import historique, ligne 21",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "world-etf-world-22",
@@ -4093,7 +4365,8 @@
       "totalAmount": 293.19,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 22"
+      "note": "Import historique, ligne 22",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "world-etf-world-23",
@@ -4108,7 +4381,8 @@
       "totalAmount": 296.76,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 23"
+      "note": "Import historique, ligne 23",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "world-etf-world-24",
@@ -4123,7 +4397,8 @@
       "totalAmount": 288.96,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 24"
+      "note": "Import historique, ligne 24",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "world-etf-world-25",
@@ -4138,7 +4413,8 @@
       "totalAmount": 258.093,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 25"
+      "note": "Import historique, ligne 25",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "world-etf-world-26",
@@ -4153,7 +4429,8 @@
       "totalAmount": 289.72400000000005,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 26"
+      "note": "Import historique, ligne 26",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "world-etf-world-27",
@@ -4168,7 +4445,8 @@
       "totalAmount": 253.701,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 27"
+      "note": "Import historique, ligne 27",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "world-etf-world-28",
@@ -4183,7 +4461,8 @@
       "totalAmount": 458.3,
       "fees": 0,
       "currency": "EUR",
-      "note": "Import historique, ligne 28"
+      "note": "Import historique, ligne 28",
+      "sourceSheet": "DCA ETF"
     },
     {
       "id": "open-usdc-1",
@@ -4289,6 +4568,2774 @@
       "fees": 0,
       "currency": "EUR",
       "note": "Valeur d’ouverture"
+    },
+    {
+      "id": "total-invest-crypto-5",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2022-01-01",
+      "quantity": 25.0,
+      "unitPrice": 1,
+      "totalAmount": 25.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 5",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-6",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2022-01-01",
+      "quantity": 25.0,
+      "unitPrice": 1,
+      "totalAmount": 25.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 6",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-7",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2022-01-01",
+      "quantity": 30.0,
+      "unitPrice": 1,
+      "totalAmount": 30.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 7",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-8",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2022-01-01",
+      "quantity": 25.0,
+      "unitPrice": 1,
+      "totalAmount": 25.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 8",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-9",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2022-01-01",
+      "quantity": 30.0,
+      "unitPrice": 1,
+      "totalAmount": 30.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 9",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-10",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2022-01-01",
+      "quantity": 15.0,
+      "unitPrice": 1,
+      "totalAmount": 15.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 10",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-11",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2022-01-01",
+      "quantity": 10.0,
+      "unitPrice": 1,
+      "totalAmount": 10.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 11",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-12",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2022-01-01",
+      "quantity": 390.0,
+      "unitPrice": 1,
+      "totalAmount": 390.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 12",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-13",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "CRYPTO.COM",
+      "type": "CONTRIBUTION",
+      "date": "2022-02-01",
+      "quantity": 26.17,
+      "unitPrice": 1,
+      "totalAmount": 26.17,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 13",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-14",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "CRYPTO.COM",
+      "type": "CONTRIBUTION",
+      "date": "2022-02-01",
+      "quantity": 26.19,
+      "unitPrice": 1,
+      "totalAmount": 26.19,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 14",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-15",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "CRYPTO.COM",
+      "type": "CONTRIBUTION",
+      "date": "2022-02-01",
+      "quantity": 20.55,
+      "unitPrice": 1,
+      "totalAmount": 20.55,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 15",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-16",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "CRYPTO.COM",
+      "type": "CONTRIBUTION",
+      "date": "2022-02-01",
+      "quantity": 5.0,
+      "unitPrice": 1,
+      "totalAmount": 5.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 16",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-17",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "CRYPTO.COM",
+      "type": "CONTRIBUTION",
+      "date": "2022-02-01",
+      "quantity": 20.0,
+      "unitPrice": 1,
+      "totalAmount": 20.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 17",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-18",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "CRYPTO.COM",
+      "type": "CONTRIBUTION",
+      "date": "2022-03-01",
+      "quantity": 250.0,
+      "unitPrice": 1,
+      "totalAmount": 250.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 18",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-19",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "CRYPTO.COM",
+      "type": "CONTRIBUTION",
+      "date": "2022-03-01",
+      "quantity": 30.0,
+      "unitPrice": 1,
+      "totalAmount": 30.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 19",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-20",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "CRYPTO.COM",
+      "type": "CONTRIBUTION",
+      "date": "2022-03-01",
+      "quantity": 20.0,
+      "unitPrice": 1,
+      "totalAmount": 20.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 20",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-21",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "CRYPTO.COM",
+      "type": "CONTRIBUTION",
+      "date": "2022-03-01",
+      "quantity": 45.0,
+      "unitPrice": 1,
+      "totalAmount": 45.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 21",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-22",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "CRYPTO.COM",
+      "type": "CONTRIBUTION",
+      "date": "2022-03-01",
+      "quantity": 52.5,
+      "unitPrice": 1,
+      "totalAmount": 52.5,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 22",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-23",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "CRYPTO.COM",
+      "type": "CONTRIBUTION",
+      "date": "2022-03-01",
+      "quantity": 50.01,
+      "unitPrice": 1,
+      "totalAmount": 50.01,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 23",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-24",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "CRYPTO.COM",
+      "type": "CONTRIBUTION",
+      "date": "2022-03-01",
+      "quantity": 250.0,
+      "unitPrice": 1,
+      "totalAmount": 250.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 24",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-25",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "CRYPTO.COM",
+      "type": "CONTRIBUTION",
+      "date": "2022-04-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 25",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-26",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2022-04-01",
+      "quantity": 25.0,
+      "unitPrice": 1,
+      "totalAmount": 25.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 26",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-27",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2022-04-01",
+      "quantity": 100.0,
+      "unitPrice": 1,
+      "totalAmount": 100.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 27",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-28",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2022-04-01",
+      "quantity": 25.0,
+      "unitPrice": 1,
+      "totalAmount": 25.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 28",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-29",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2022-04-01",
+      "quantity": 52.5,
+      "unitPrice": 1,
+      "totalAmount": 52.5,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 29",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-30",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2022-04-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 30",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-31",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BYBIT",
+      "type": "CONTRIBUTION",
+      "date": "2022-05-01",
+      "quantity": 30.0,
+      "unitPrice": 1,
+      "totalAmount": 30.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 31",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-32",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "CABITAL",
+      "type": "CONTRIBUTION",
+      "date": "2022-05-01",
+      "quantity": 10.0,
+      "unitPrice": 1,
+      "totalAmount": 10.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 32",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-33",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2022-05-01",
+      "quantity": 1000.0,
+      "unitPrice": 1,
+      "totalAmount": 1000.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 33",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-34",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2022-06-01",
+      "quantity": 75.0,
+      "unitPrice": 1,
+      "totalAmount": 75.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 34",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-35",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2022-06-01",
+      "quantity": 40.0,
+      "unitPrice": 1,
+      "totalAmount": 40.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 35",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-36",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "CRYPTO.COM",
+      "type": "CONTRIBUTION",
+      "date": "2022-06-01",
+      "quantity": 35.0,
+      "unitPrice": 1,
+      "totalAmount": 35.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 36",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-37",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BYBIT",
+      "type": "WITHDRAWAL",
+      "date": "2022-06-01",
+      "quantity": 386.0,
+      "unitPrice": 1,
+      "totalAmount": 386.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 37",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-38",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2022-06-01",
+      "quantity": 60.0,
+      "unitPrice": 1,
+      "totalAmount": 60.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 38",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-39",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2022-07-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 39",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-40",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2022-07-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 40",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-41",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2022-07-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 41",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-42",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "WITHDRAWAL",
+      "date": "2022-07-01",
+      "quantity": 1146.0,
+      "unitPrice": 1,
+      "totalAmount": 1146.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 42",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-43",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2022-08-01",
+      "quantity": 75.0,
+      "unitPrice": 1,
+      "totalAmount": 75.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 43",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-44",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2022-09-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 44",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-45",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2022-10-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 45",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-46",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "CRYPTO.COM",
+      "type": "CONTRIBUTION",
+      "date": "2022-10-01",
+      "quantity": 35.0,
+      "unitPrice": 1,
+      "totalAmount": 35.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 46",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-47",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2022-11-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 47",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-48",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2022-12-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 48",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-49",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2023-01-01",
+      "quantity": 56.54,
+      "unitPrice": 1,
+      "totalAmount": 56.54,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 49",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-50",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2023-02-01",
+      "quantity": 240.0,
+      "unitPrice": 1,
+      "totalAmount": 240.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 50",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-51",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2023-02-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 51",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-52",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2023-02-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 52",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-53",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2023-02-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 53",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-54",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2023-03-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 54",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-55",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2023-03-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 55",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-56",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2023-04-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 56",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-57",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2023-04-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 57",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-58",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2023-05-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 58",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-59",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2023-05-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 59",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-60",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2023-06-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 60",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-61",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2023-06-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 61",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-62",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2023-07-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 62",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-63",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2023-07-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 63",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-64",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2023-07-01",
+      "quantity": 20.0,
+      "unitPrice": 1,
+      "totalAmount": 20.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 64",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-65",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2023-08-01",
+      "quantity": 56.0,
+      "unitPrice": 1,
+      "totalAmount": 56.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 65",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-66",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2023-08-01",
+      "quantity": 384.0,
+      "unitPrice": 1,
+      "totalAmount": 384.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 66",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-67",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2023-08-01",
+      "quantity": 190.0,
+      "unitPrice": 1,
+      "totalAmount": 190.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 67",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-68",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "CRYPTO.COM",
+      "type": "CONTRIBUTION",
+      "date": "2023-08-01",
+      "quantity": 10.0,
+      "unitPrice": 1,
+      "totalAmount": 10.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 68",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-69",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2023-09-01",
+      "quantity": 86.8,
+      "unitPrice": 1,
+      "totalAmount": 86.8,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 69",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-70",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2023-09-01",
+      "quantity": 53.2,
+      "unitPrice": 1,
+      "totalAmount": 53.2,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 70",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-71",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2023-09-01",
+      "quantity": 300.0,
+      "unitPrice": 1,
+      "totalAmount": 300.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 71",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-72",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "CRYPTO.COM",
+      "type": "CONTRIBUTION",
+      "date": "2023-09-01",
+      "quantity": 10.0,
+      "unitPrice": 1,
+      "totalAmount": 10.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 72",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-73",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2023-09-01",
+      "quantity": 190.0,
+      "unitPrice": 1,
+      "totalAmount": 190.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 73",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-74",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2023-10-01",
+      "quantity": 60.8,
+      "unitPrice": 1,
+      "totalAmount": 60.8,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 74",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-75",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2023-10-01",
+      "quantity": 99.44,
+      "unitPrice": 1,
+      "totalAmount": 99.44,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 75",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-76",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2023-10-01",
+      "quantity": 490.0,
+      "unitPrice": 1,
+      "totalAmount": 490.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 76",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-77",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "CRYPTO.COM",
+      "type": "CONTRIBUTION",
+      "date": "2023-10-01",
+      "quantity": 10.0,
+      "unitPrice": 1,
+      "totalAmount": 10.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 77",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-78",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2023-11-01",
+      "quantity": 99.2,
+      "unitPrice": 1,
+      "totalAmount": 99.2,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 78",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-79",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2023-11-01",
+      "quantity": 310.0,
+      "unitPrice": 1,
+      "totalAmount": 310.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 79",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-80",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2023-12-01",
+      "quantity": 94.5,
+      "unitPrice": 1,
+      "totalAmount": 94.5,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 80",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-81",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "CRYPTO.COM",
+      "type": "CONTRIBUTION",
+      "date": "2023-12-01",
+      "quantity": 10.0,
+      "unitPrice": 1,
+      "totalAmount": 10.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 81",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-82",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2024-01-01",
+      "quantity": 156.7,
+      "unitPrice": 1,
+      "totalAmount": 156.7,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 82",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-83",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "CRYPTO.COM",
+      "type": "CONTRIBUTION",
+      "date": "2024-01-01",
+      "quantity": 10.0,
+      "unitPrice": 1,
+      "totalAmount": 10.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 83",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-84",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2024-01-01",
+      "quantity": 99.2,
+      "unitPrice": 1,
+      "totalAmount": 99.2,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 84",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-85",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2024-01-01",
+      "quantity": 45.0,
+      "unitPrice": 1,
+      "totalAmount": 45.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 85",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-86",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2024-02-01",
+      "quantity": 99.2,
+      "unitPrice": 1,
+      "totalAmount": 99.2,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 86",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-87",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2024-02-01",
+      "quantity": 60.8,
+      "unitPrice": 1,
+      "totalAmount": 60.8,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 87",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-88",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2024-03-01",
+      "quantity": 900.0,
+      "unitPrice": 1,
+      "totalAmount": 900.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 88",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-89",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "MERIA",
+      "type": "CONTRIBUTION",
+      "date": "2024-03-01",
+      "quantity": 100.0,
+      "unitPrice": 1,
+      "totalAmount": 100.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 89",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-90",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2024-03-01",
+      "quantity": 60.8,
+      "unitPrice": 1,
+      "totalAmount": 60.8,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 90",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-91",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2024-03-01",
+      "quantity": 57.0,
+      "unitPrice": 1,
+      "totalAmount": 57.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 91",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-92",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2024-03-01",
+      "quantity": 85.0,
+      "unitPrice": 1,
+      "totalAmount": 85.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 92",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-93",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2024-04-01",
+      "quantity": 60.8,
+      "unitPrice": 1,
+      "totalAmount": 60.8,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 93",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-94",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2024-04-01",
+      "quantity": 100.0,
+      "unitPrice": 1,
+      "totalAmount": 100.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 94",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-95",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2024-04-01",
+      "quantity": 102.0,
+      "unitPrice": 1,
+      "totalAmount": 102.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 95",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-96",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2024-06-01",
+      "quantity": 60.8,
+      "unitPrice": 1,
+      "totalAmount": 60.8,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 96",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-97",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2024-06-01",
+      "quantity": 99.0,
+      "unitPrice": 1,
+      "totalAmount": 99.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 97",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-98",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2024-06-01",
+      "quantity": 450.0,
+      "unitPrice": 1,
+      "totalAmount": 450.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 98",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-99",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2024-07-01",
+      "quantity": 60.8,
+      "unitPrice": 1,
+      "totalAmount": 60.8,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 99",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-100",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2024-07-01",
+      "quantity": 239.0,
+      "unitPrice": 1,
+      "totalAmount": 239.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 100",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-101",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2024-07-01",
+      "quantity": 500.0,
+      "unitPrice": 1,
+      "totalAmount": 500.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 101",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-102",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2024-08-01",
+      "quantity": 133.0,
+      "unitPrice": 1,
+      "totalAmount": 133.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 102",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-103",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2024-08-01",
+      "quantity": 100.0,
+      "unitPrice": 1,
+      "totalAmount": 100.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 103",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-104",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2024-08-01",
+      "quantity": 90.0,
+      "unitPrice": 1,
+      "totalAmount": 90.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 104",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-105",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2024-08-01",
+      "quantity": 100.0,
+      "unitPrice": 1,
+      "totalAmount": 100.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 105",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-106",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2024-08-01",
+      "quantity": 275.0,
+      "unitPrice": 1,
+      "totalAmount": 275.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 106",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-107",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2024-08-01",
+      "quantity": 200.0,
+      "unitPrice": 1,
+      "totalAmount": 200.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 107",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-108",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2024-09-01",
+      "quantity": 603.0,
+      "unitPrice": 1,
+      "totalAmount": 603.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 108",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-109",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "SWISSBORG",
+      "type": "CONTRIBUTION",
+      "date": "2024-09-01",
+      "quantity": 162.52,
+      "unitPrice": 1,
+      "totalAmount": 162.52,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 109",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-110",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2024-10-01",
+      "quantity": 600.0,
+      "unitPrice": 1,
+      "totalAmount": 600.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 110",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-111",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2024-10-01",
+      "quantity": 500.0,
+      "unitPrice": 1,
+      "totalAmount": 500.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 111",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-112",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2024-11-01",
+      "quantity": 500.0,
+      "unitPrice": 1,
+      "totalAmount": 500.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 112",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-113",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2024-12-01",
+      "quantity": 2500.0,
+      "unitPrice": 1,
+      "totalAmount": 2500.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 113",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-114",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2025-01-01",
+      "quantity": 600.0,
+      "unitPrice": 1,
+      "totalAmount": 600.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 114",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-115",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2025-02-01",
+      "quantity": 600.0,
+      "unitPrice": 1,
+      "totalAmount": 600.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 115",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-116",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2025-03-01",
+      "quantity": 500.0,
+      "unitPrice": 1,
+      "totalAmount": 500.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 116",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-crypto-117",
+      "assetSymbol": "APPORT-CRYPTO",
+      "assetName": "Investissement Crypto",
+      "category": "Investissements",
+      "account": "BINANCE",
+      "type": "CONTRIBUTION",
+      "date": "2025-04-01",
+      "quantity": 670.0,
+      "unitPrice": 1,
+      "totalAmount": 670.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT CRYPTO, ligne 117",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-6",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2022-05-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 6",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-7",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2022-05-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 7",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-8",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2022-05-01",
+      "quantity": 100.0,
+      "unitPrice": 1,
+      "totalAmount": 100.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 8",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-9",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2022-06-01",
+      "quantity": 75.0,
+      "unitPrice": 1,
+      "totalAmount": 75.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 9",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-10",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2022-07-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 10",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-11",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2022-08-01",
+      "quantity": 75.0,
+      "unitPrice": 1,
+      "totalAmount": 75.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 11",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-12",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2022-09-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 12",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-13",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2022-10-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 13",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-14",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2022-11-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 14",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-15",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2022-12-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 15",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-16",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2023-01-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 16",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-17",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2023-02-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 17",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-18",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2023-03-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 18",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-19",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2023-04-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 19",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-20",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2023-05-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 20",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-21",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2023-06-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 21",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-22",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2023-07-01",
+      "quantity": 50.0,
+      "unitPrice": 1,
+      "totalAmount": 50.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 22",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-23",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "BOURSE DIRECT",
+      "type": "CONTRIBUTION",
+      "date": "2023-07-01",
+      "quantity": 55.0,
+      "unitPrice": 1,
+      "totalAmount": 55.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 23",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-24",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "BOURSE DIRECT",
+      "type": "CONTRIBUTION",
+      "date": "2023-07-01",
+      "quantity": 25.0,
+      "unitPrice": 1,
+      "totalAmount": 25.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 24",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-25",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "BOURSE DIRECT",
+      "type": "CONTRIBUTION",
+      "date": "2023-08-01",
+      "quantity": 210.0,
+      "unitPrice": 1,
+      "totalAmount": 210.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 25",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-26",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "BOURSE DIRECT",
+      "type": "CONTRIBUTION",
+      "date": "2023-09-01",
+      "quantity": 210.0,
+      "unitPrice": 1,
+      "totalAmount": 210.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 26",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-27",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "BOURSE DIRECT",
+      "type": "CONTRIBUTION",
+      "date": "2023-10-01",
+      "quantity": 240.0,
+      "unitPrice": 1,
+      "totalAmount": 240.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 27",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-28",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "BOURSE DIRECT",
+      "type": "CONTRIBUTION",
+      "date": "2023-11-01",
+      "quantity": 240.0,
+      "unitPrice": 1,
+      "totalAmount": 240.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 28",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-29",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "BOURSE DIRECT",
+      "type": "CONTRIBUTION",
+      "date": "2023-12-01",
+      "quantity": 240.0,
+      "unitPrice": 1,
+      "totalAmount": 240.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 29",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-30",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "BOURSE DIRECT",
+      "type": "CONTRIBUTION",
+      "date": "2024-01-01",
+      "quantity": 240.0,
+      "unitPrice": 1,
+      "totalAmount": 240.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 30",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-31",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "BOURSE DIRECT",
+      "type": "CONTRIBUTION",
+      "date": "2024-02-01",
+      "quantity": 240.0,
+      "unitPrice": 1,
+      "totalAmount": 240.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 31",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-32",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "BOURSE DIRECT",
+      "type": "CONTRIBUTION",
+      "date": "2024-03-01",
+      "quantity": 240.0,
+      "unitPrice": 1,
+      "totalAmount": 240.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 32",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-33",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "BOURSE DIRECT",
+      "type": "CONTRIBUTION",
+      "date": "2024-04-01",
+      "quantity": 239.2,
+      "unitPrice": 1,
+      "totalAmount": 239.2,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 33",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-34",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "BOURSE DIRECT",
+      "type": "CONTRIBUTION",
+      "date": "2024-06-01",
+      "quantity": 240.0,
+      "unitPrice": 1,
+      "totalAmount": 240.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 34",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-35",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2024-07-01",
+      "quantity": 30.0,
+      "unitPrice": 1,
+      "totalAmount": 30.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 35",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-36",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2024-08-01",
+      "quantity": 30.0,
+      "unitPrice": 1,
+      "totalAmount": 30.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 36",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-37",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2024-09-01",
+      "quantity": 30.0,
+      "unitPrice": 1,
+      "totalAmount": 30.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 37",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-38",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2024-10-01",
+      "quantity": 30.0,
+      "unitPrice": 1,
+      "totalAmount": 30.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 38",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-39",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2024-11-01",
+      "quantity": 30.0,
+      "unitPrice": 1,
+      "totalAmount": 30.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 39",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-40",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2024-12-01",
+      "quantity": 30.0,
+      "unitPrice": 1,
+      "totalAmount": 30.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 40",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-41",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2025-01-01",
+      "quantity": 30.0,
+      "unitPrice": 1,
+      "totalAmount": 30.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 41",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-42",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2025-02-01",
+      "quantity": 30.0,
+      "unitPrice": 1,
+      "totalAmount": 30.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 42",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-43",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2025-03-01",
+      "quantity": 30.0,
+      "unitPrice": 1,
+      "totalAmount": 30.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 43",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-44",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2025-04-01",
+      "quantity": 30.0,
+      "unitPrice": 1,
+      "totalAmount": 30.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 44",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-45",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2025-06-01",
+      "quantity": 30.0,
+      "unitPrice": 1,
+      "totalAmount": 30.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 45",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-46",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "BOURSE DIRECT",
+      "type": "CONTRIBUTION",
+      "date": "2025-06-01",
+      "quantity": 570.0,
+      "unitPrice": 1,
+      "totalAmount": 570.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 46",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-47",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "BOURSE DIRECT",
+      "type": "CONTRIBUTION",
+      "date": "2025-07-01",
+      "quantity": 600.0,
+      "unitPrice": 1,
+      "totalAmount": 600.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 47",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-48",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2025-07-01",
+      "quantity": 30.0,
+      "unitPrice": 1,
+      "totalAmount": 30.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 48",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-49",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2025-08-01",
+      "quantity": 30.0,
+      "unitPrice": 1,
+      "totalAmount": 30.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 49",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-50",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2025-09-01",
+      "quantity": 30.0,
+      "unitPrice": 1,
+      "totalAmount": 30.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 50",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-51",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "BOURSE DIRECT",
+      "type": "CONTRIBUTION",
+      "date": "2025-09-01",
+      "quantity": 570.0,
+      "unitPrice": 1,
+      "totalAmount": 570.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 51",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-52",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2025-11-01",
+      "quantity": 30.0,
+      "unitPrice": 1,
+      "totalAmount": 30.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 52",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-53",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2025-12-01",
+      "quantity": 30.0,
+      "unitPrice": 1,
+      "totalAmount": 30.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 53",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-54",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2026-01-01",
+      "quantity": 30.0,
+      "unitPrice": 1,
+      "totalAmount": 30.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 54",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-55",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "BOURSE DIRECT",
+      "type": "CONTRIBUTION",
+      "date": "2026-01-01",
+      "quantity": 500.0,
+      "unitPrice": 1,
+      "totalAmount": 500.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 55",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-56",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "BOURSE DIRECT",
+      "type": "CONTRIBUTION",
+      "date": "2026-02-01",
+      "quantity": 562.0,
+      "unitPrice": 1,
+      "totalAmount": 562.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 56",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-57",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2026-02-01",
+      "quantity": 30.0,
+      "unitPrice": 1,
+      "totalAmount": 30.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 57",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-58",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "BOURSE DIRECT",
+      "type": "CONTRIBUTION",
+      "date": "2026-03-01",
+      "quantity": 230.0,
+      "unitPrice": 1,
+      "totalAmount": 230.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 58",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-59",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2026-03-01",
+      "quantity": 30.0,
+      "unitPrice": 1,
+      "totalAmount": 30.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 59",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-60",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "BOURSE DIRECT",
+      "type": "CONTRIBUTION",
+      "date": "2026-04-01",
+      "quantity": 490.0,
+      "unitPrice": 1,
+      "totalAmount": 490.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 60",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-61",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2026-04-01",
+      "quantity": 30.0,
+      "unitPrice": 1,
+      "totalAmount": 30.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 61",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-62",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "BOURSE DIRECT",
+      "type": "CONTRIBUTION",
+      "date": "2026-05-01",
+      "quantity": 500.0,
+      "unitPrice": 1,
+      "totalAmount": 500.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 62",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-63",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2026-05-01",
+      "quantity": 30.0,
+      "unitPrice": 1,
+      "totalAmount": 30.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 63",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-64",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "BOURSE DIRECT",
+      "type": "CONTRIBUTION",
+      "date": "2026-06-01",
+      "quantity": 470.0,
+      "unitPrice": 1,
+      "totalAmount": 470.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 64",
+      "sourceSheet": "TOTAL INVEST"
+    },
+    {
+      "id": "total-invest-bourse-65",
+      "assetSymbol": "APPORT-BOURSE",
+      "assetName": "Investissement Bourse",
+      "category": "Investissements",
+      "account": "TRADE REPUBLIC",
+      "type": "CONTRIBUTION",
+      "date": "2026-06-01",
+      "quantity": 30.0,
+      "unitPrice": 1,
+      "totalAmount": 30.0,
+      "fees": 0,
+      "currency": "EUR",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 65",
+      "sourceSheet": "TOTAL INVEST"
     }
   ],
   "prices": [
@@ -4355,6 +7402,8 @@
   ],
   "settings": {
     "baseCurrency": "EUR",
-    "usdToEur": 0.8474576271186441
+    "usdToEur": 0.8474576271186441,
+    "historyVersion": 2,
+    "historyCount": 459
   }
 }

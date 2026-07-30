@@ -30,3 +30,11 @@ Aucune commande `npm` n'est nécessaire : le projet est un site statique prêt �
 ## Confidentialité
 
 Les données sont stockées dans IndexedDB sur l'appareil. Le dépôt GitHub contient toutefois l'historique initial dans `assets/seed.json`; utilisez donc un dépôt privé si ces données ne doivent pas être publiques. Attention : GitHub Pages n'est normalement pas disponible pour un dépôt privé avec tous les forfaits.
+
+
+## Historique et devises — version 2
+
+- DCA CRYPTO : USD
+- DCA ETF (S&P 500 et World) : EUR
+- TOTAL INVEST, tableaux Investissement Crypto et Investissement Bourse : EUR
+- Les apports TOTAL INVEST sont conservés comme mouvements de financement distincts afin de ne pas doubler les positions DCA.
