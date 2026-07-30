@@ -1,0 +1,1 @@
+{"expo":{"name":"Mon Patrimoine","slug":"patrimoine-mobile","version":"1.0.0","orientation":"portrait","scheme":"patrimoine","userInterfaceStyle":"automatic","plugins":["expo-router","expo-sqlite"],"android":{"package":"com.jean.patrimoine"},"ios":{"bundleIdentifier":"com.jean.patrimoine"}}}
