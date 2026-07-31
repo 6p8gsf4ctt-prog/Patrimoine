@@ -1,16 +1,12 @@
-# Mon Patrimoine — V2
+# Mon Patrimoine 2.2
 
-Refonte de l’interface pour l’aligner sur l’application Budget : en-têtes, cartes, listes, onglets inférieurs, feuilles modales et typographie système.
+Cette version ajoute :
 
-## Nouveautés
+- un tableau de bord plus visuel avec jauges et plus/moins-values ;
+- un historique local des performances, alimenté à chaque journée et après les modifications ;
+- les plus haut, plus bas et évolution depuis le premier relevé ;
+- un calendrier mensuel des apports Crypto et Bourse ;
+- l’ajout d’un apport en touchant directement un jour du calendrier ;
+- la conservation et l’export des relevés historiques.
 
-- suppression de l’écran séparé de saisie des cours ;
-- ouverture d’une fiche en touchant une position ;
-- modification du cours actuel depuis la fiche ;
-- synthèse de répartition limitée à Crypto et Bourse ;
-- conservation des données IndexedDB existantes ;
-- cache PWA renouvelé (`patrimoine-v2-20`).
-
-## Déploiement
-
-Copier tout le contenu de ce dossier à la racine du dépôt GitHub Pages, puis attendre la fin du déploiement. Fermer et rouvrir l’application installée afin d’activer le nouveau service worker.
+Les données restent stockées localement dans IndexedDB. L’historique de valorisation commence lors de la première ouverture de cette version, car les cours historiques antérieurs ne peuvent pas être reconstitués avec exactitude.
