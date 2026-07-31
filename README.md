@@ -17,3 +17,8 @@ Application locale et autonome, sans API ni Excel.
 - PRU recalculé après chaque nouvelle opération.
 
 Le taux USD/EUR est modifiable dans Réglages. Les données restent dans IndexedDB sur l’appareil.
+
+
+## Correction v6
+
+Ajout de la position Core S&P 500 USD (Acc) : 3,658525 parts, PRU 461,57 €, valeur initiale 2 561,99 €, gain latent 873,32 € (+51,72 %). La migration l'ajoute automatiquement aux installations existantes sans effacer les données locales.

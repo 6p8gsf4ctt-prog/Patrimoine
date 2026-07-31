@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "settings": {
     "dataVersion": 4,
     "usdToEur": 0.8474576271,
@@ -73,6 +73,20 @@
       "openingDate": "2026-07-31",
       "rewardQuantity": 16.3588,
       "notes": "Montant placé affiché : 2 363,034 USDC. Les intérêts sont suivis séparément à titre informatif."
+    },
+    {
+      "id": "sp500",
+      "symbol": "S&P 500",
+      "name": "Core S&P 500 USD (Acc)",
+      "category": "Bourse",
+      "account": "Trade Republic",
+      "currency": "EUR",
+      "quantity": 3.658525,
+      "averageCost": 461.57,
+      "currentPrice": 700.2794842183666,
+      "openingDate": "2026-07-31",
+      "costBasis": 1688.66538425,
+      "notes": "Position initiale issue des captures du 31/07/2026 : valorisation 2 561,99 €, gain latent 873,32 €, performance +51,72 %."
     },
     {
       "id": "ewld",
