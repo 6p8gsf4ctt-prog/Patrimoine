@@ -10,3 +10,10 @@ Cette version ajoute :
 - la conservation et l’export des relevés historiques.
 
 Les données restent stockées localement dans IndexedDB. L’historique de valorisation commence lors de la première ouverture de cette version, car les cours historiques antérieurs ne peuvent pas être reconstitués avec exactitude.
+
+
+## Version 2.3
+- Suppression de l’historique des performances.
+- Remplacement du calendrier par un historique mensuel en tableau.
+- Déplacement du bouton Ajouter au-dessus des apports enregistrés.
+- Ajout de la suppression des apports.
