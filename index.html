@@ -8,7 +8,7 @@
   <link rel="manifest" href="./manifest.webmanifest">
   <link rel="apple-touch-icon" href="./assets/icons/icon-192.png">
   <link rel="icon" href="./assets/icons/icon-192.png">
-  <link rel="stylesheet" href="./styles.css?v=23">
+  <link rel="stylesheet" href="./styles.css?v=26">
   <title>Mon Patrimoine</title>
 </head>
 <body>
@@ -50,6 +50,26 @@
     </form>
   </dialog>
 
+  <dialog id="positionDialog" class="modal-card">
+    <form id="positionForm" class="form-stack">
+      <input type="hidden" name="positionId">
+      <span class="overline">POSITION</span>
+      <h2 id="positionEditTitle">Modifier la position</h2>
+      <label>Symbole<input name="symbol" required maxlength="20" placeholder="BTC"></label>
+      <label>Nom de l’actif<input name="name" required placeholder="Bitcoin"></label>
+      <label>Catégorie<select name="category" required><option>Crypto</option><option>Bourse</option><option>Liquidités</option></select></label>
+      <label>Compte / plateforme<input name="account" required placeholder="SwissBorg, Binance, Bourse Direct…"></label>
+      <label>Devise<select name="currency" required><option value="USD">Dollar américain (USD)</option><option value="EUR">Euro (EUR)</option></select></label>
+      <label>Quantité<input name="quantity" inputmode="decimal" type="number" step="any" min="0" required></label>
+      <label>PRU<input name="averageCost" inputmode="decimal" type="number" step="any" min="0" required></label>
+      <label>Cours actuel<input name="currentPrice" inputmode="decimal" type="number" step="any" min="0" required></label>
+      <label>Date de la position initiale<input name="openingDate" type="date" required></label>
+      <label>Notes<textarea name="notes" rows="3"></textarea></label>
+      <p class="form-hint">La modification de la quantité ou du PRU redéfinit le coût de revient initial de cette position. Les opérations enregistrées après la photographie initiale restent conservées.</p>
+      <div class="modal-actions"><button type="button" class="button secondary" data-close="positionDialog">Annuler</button><button class="button primary">Enregistrer</button></div>
+    </form>
+  </dialog>
+
   <dialog id="assetDialog" class="modal-card">
     <form id="assetForm" class="form-stack">
       <input type="hidden" name="id">
@@ -80,6 +100,6 @@
     </form>
   </dialog>
 
-  <script src="./app.js?v=23" defer></script>
+  <script src="./app.js?v=26" defer></script>
 </body>
 </html>

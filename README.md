@@ -17,3 +17,21 @@ Les données restent stockées localement dans IndexedDB. L’historique de valo
 - Remplacement du calendrier par un historique mensuel en tableau.
 - Déplacement du bouton Ajouter au-dessus des apports enregistrés.
 - Ajout de la suppression des apports.
+
+
+## Version 2.6
+
+- Onglets annuels pour l'historique mensuel des apports.
+- Affichage des seuls mois de l'année sélectionnée.
+- Sélection automatique de l'année la plus récente.
+
+
+## V2.6
+
+Chaque position peut désormais être modifiée entièrement depuis sa fiche : symbole, nom, catégorie, compte ou plateforme, devise, quantité, PRU, cours actuel, date initiale et notes.
+
+
+## V2.6
+- Cartes des positions harmonisées avec la section Répartition.
+- Valeur actuelle, gain/perte dans la devise de l’actif et équivalent EUR pour les actifs USD.
+- Pourcentage coloré et jauge valeur/coût de revient pour chaque position.
