@@ -1,40 +1,21 @@
-# Mon Patrimoine — PWA autonome
+# Mon Patrimoine — version simplifiée
 
-Application web installable, hors ligne, sans API et sans Excel après publication.
+PWA autonome, sans API et sans Excel.
 
-## Contenu
+## Données incluses
 
-- 286 opérations historiques préchargées
-- Tableau de bord
-- Portefeuille et performances
-- Saisie manuelle des cours
-- Ajout, modification et suppression d'opérations
-- Export et restauration JSON
-- IndexedDB locale
-- Service worker hors ligne
+- photographie initiale du portefeuille au 31 juillet 2026 ;
+- BTC, ETH, LINK, TIA, USDC, EWLD et espèces du PEA ;
+- historique des seuls apports Crypto et Bourse provenant de `TOTAL INVEST`, tous en euros ;
+- aucune ancienne transaction détaillée DCA.
 
-## Publication GitHub Pages
+## Règles
 
-1. Placez **le contenu de ce dossier directement à la racine** du dépôt GitHub `Patrimoine`.
-2. Dans **Settings > Pages**, choisissez **GitHub Actions** comme source.
-3. Ouvrez l'onglet **Actions** et attendez la coche verte du workflow « Publier la PWA ».
-4. L'adresse sera généralement : `https://VOTRE-COMPTE.github.io/Patrimoine/`
+- un apport mesure l'argent consacré à Crypto ou Bourse ;
+- une opération sur un actif modifie sa quantité et son PRU ;
+- les deux suivis sont indépendants ;
+- les cours et le taux USD/EUR sont saisis manuellement.
 
-Aucune commande `npm` n'est nécessaire : le projet est un site statique prêt à publier.
+## GitHub Pages
 
-## Installation
-
-- Android/Chrome : menu ⋮ > Installer l'application
-- iPhone/Safari : Partager > Sur l'écran d'accueil
-
-## Confidentialité
-
-Les données sont stockées dans IndexedDB sur l'appareil. Le dépôt GitHub contient toutefois l'historique initial dans `assets/seed.json`; utilisez donc un dépôt privé si ces données ne doivent pas être publiques. Attention : GitHub Pages n'est normalement pas disponible pour un dépôt privé avec tous les forfaits.
-
-
-## Historique et devises — version 2
-
-- DCA CRYPTO : USD
-- DCA ETF (S&P 500 et World) : EUR
-- TOTAL INVEST, tableaux Investissement Crypto et Investissement Bourse : EUR
-- Les apports TOTAL INVEST sont conservés comme mouvements de financement distincts afin de ne pas doubler les positions DCA.
+Placez tous les fichiers à la racine du dépôt, puis choisissez **Settings → Pages → GitHub Actions**.
