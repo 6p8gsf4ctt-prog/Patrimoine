@@ -1,10 +1,10 @@
 {
-  "version": 7,
+  "version": 8,
   "settings": {
     "dataVersion": 8,
     "usdToEur": 0.8474576271,
     "snapshotDate": "2026-07-31",
-    "appVersion": "8.0.0"
+    "appVersion": "2.7.0"
   },
   "positions": [
     {
@@ -18,7 +18,8 @@
       "averageCost": 61270.15,
       "currentPrice": 64260.26,
       "openingDate": "2026-07-31",
-      "notes": "Position initiale issue de la capture du 31/07/2026."
+      "notes": "Position initiale issue de la capture du 31/07/2026.",
+      "assetType": "investment"
     },
     {
       "id": "eth",
@@ -31,7 +32,8 @@
       "averageCost": 2410.09,
       "currentPrice": 1935.43,
       "openingDate": "2026-07-31",
-      "notes": "Position initiale issue de la capture du 31/07/2026."
+      "notes": "Position initiale issue de la capture du 31/07/2026.",
+      "assetType": "investment"
     },
     {
       "id": "link",
@@ -44,7 +46,8 @@
       "averageCost": 11.69,
       "currentPrice": 8.35,
       "openingDate": "2026-07-31",
-      "notes": "Position initiale issue de la capture du 31/07/2026."
+      "notes": "Position initiale issue de la capture du 31/07/2026.",
+      "assetType": "investment"
     },
     {
       "id": "tia",
@@ -59,7 +62,8 @@
       "openingDate": "2026-07-31",
       "costBasis": 108.91,
       "rewardQuantity": 0.6768,
-      "notes": "18,2236 TIA achetés environ, plus 0,6768 TIA de récompenses. Le coût total retenu est 108,91 $."
+      "notes": "18,2236 TIA achetés environ, plus 0,6768 TIA de récompenses. Le coût total retenu est 108,91 $.",
+      "assetType": "investment"
     },
     {
       "id": "usdc",
@@ -73,7 +77,8 @@
       "currentPrice": 1,
       "openingDate": "2026-07-31",
       "rewardQuantity": 16.3588,
-      "notes": "Montant placé affiché : 2 363,034 USDC. Les intérêts sont suivis séparément à titre informatif."
+      "notes": "Montant placé affiché : 2 363,034 USDC. Les intérêts sont suivis séparément à titre informatif.",
+      "assetType": "stablecoin"
     },
     {
       "id": "sp500",
@@ -87,7 +92,8 @@
       "currentPrice": 700.2794842183666,
       "openingDate": "2026-07-31",
       "costBasis": 1688.66538425,
-      "notes": "Position initiale issue des captures du 31/07/2026 : valorisation 2 561,99 €, gain latent 873,32 €, performance +51,72 %."
+      "notes": "Position initiale issue des captures du 31/07/2026 : valorisation 2 561,99 €, gain latent 873,32 €, performance +51,72 %.",
+      "assetType": "investment"
     },
     {
       "id": "ewld",
@@ -100,20 +106,22 @@
       "averageCost": 32.79,
       "currentPrice": 39.89,
       "openingDate": "2026-07-31",
-      "notes": "Position initiale issue de la capture du 31/07/2026."
+      "notes": "Position initiale issue de la capture du 31/07/2026.",
+      "assetType": "investment"
     },
     {
       "id": "pea-cash",
       "symbol": "EUR-PEA",
       "name": "Espèces PEA",
-      "category": "Liquidités",
+      "category": "Bourse",
       "account": "Bourse Direct — PEA",
       "currency": "EUR",
       "quantity": 11.98,
       "averageCost": 1,
       "currentPrice": 1,
       "openingDate": "2026-07-31",
-      "notes": "Solde espèces du PEA."
+      "notes": "Solde espèces du PEA.",
+      "assetType": "cash"
     }
   ],
   "assetTransactions": [],

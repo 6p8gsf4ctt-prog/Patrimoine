@@ -35,3 +35,10 @@ Chaque position peut désormais être modifiée entièrement depuis sa fiche : s
 - Cartes des positions harmonisées avec la section Répartition.
 - Valeur actuelle, gain/perte dans la devise de l’actif et équivalent EUR pour les actifs USD.
 - Pourcentage coloré et jauge valeur/coût de revient pour chaque position.
+
+
+## Version 2.7
+- Stablecoins séparés des cryptomonnaies investies.
+- Espèces et cash PEA séparés des positions Bourse.
+- Les liquidités n’affichent ni performance ni jauge.
+- Nature de l’actif modifiable dans la fiche de position.

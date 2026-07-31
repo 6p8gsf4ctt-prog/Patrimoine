@@ -8,7 +8,7 @@
   <link rel="manifest" href="./manifest.webmanifest">
   <link rel="apple-touch-icon" href="./assets/icons/icon-192.png">
   <link rel="icon" href="./assets/icons/icon-192.png">
-  <link rel="stylesheet" href="./styles.css?v=26">
+  <link rel="stylesheet" href="./styles.css?v=27">
   <title>Mon Patrimoine</title>
 </head>
 <body>
@@ -57,7 +57,8 @@
       <h2 id="positionEditTitle">Modifier la position</h2>
       <label>Symbole<input name="symbol" required maxlength="20" placeholder="BTC"></label>
       <label>Nom de l’actif<input name="name" required placeholder="Bitcoin"></label>
-      <label>Catégorie<select name="category" required><option>Crypto</option><option>Bourse</option><option>Liquidités</option></select></label>
+      <label>Univers<select name="category" required><option>Crypto</option><option>Bourse</option></select></label>
+      <label>Nature<select name="assetType" required><option value="investment">Position investie</option><option value="stablecoin">Stablecoin en attente</option><option value="cash">Espèces / cash en attente</option></select></label>
       <label>Compte / plateforme<input name="account" required placeholder="SwissBorg, Binance, Bourse Direct…"></label>
       <label>Devise<select name="currency" required><option value="USD">Dollar américain (USD)</option><option value="EUR">Euro (EUR)</option></select></label>
       <label>Quantité<input name="quantity" inputmode="decimal" type="number" step="any" min="0" required></label>
@@ -100,6 +101,6 @@
     </form>
   </dialog>
 
-  <script src="./app.js?v=26" defer></script>
+  <script src="./app.js?v=27" defer></script>
 </body>
 </html>
