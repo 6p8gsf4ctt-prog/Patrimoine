@@ -9,10 +9,64 @@ function contributionTotals(){const crypto=state.contributions.filter(c=>c.domai
 function destinationTotals(){const m={};for(const c of state.contributions){const k=c.destination||'Non précisé';m[k]=(m[k]||0)+(+c.amount)}return Object.entries(m).sort((a,b)=>b[1]-a[1])}
 function annual(){const m={};for(const c of state.contributions){const y=c.date.slice(0,4);m[y]??={Crypto:0,Bourse:0};m[y][c.domain]= (m[y][c.domain]||0)+(+c.amount)}return Object.entries(m).sort((a,b)=>b[0].localeCompare(a[0]))}
 function assetCards(ps){return `<div class="settings-grid">${ps.map(p=>`<article class="card position-card" data-position="${p.id}"><div class="asset-id"><div class="symbol">${esc(p.symbol.slice(0,4))}</div><div><b>${esc(p.name)}</b><span class="muted">${esc(p.account)}</span></div></div><div class="detail-grid"><div><span class="label">Valeur</span><b>${money(p.value,p.currency)}</b></div><div><span class="label">Quantité</span><b>${num.format(p.quantity)}</b></div><div><span class="label">PRU</span><b>${money(p.averageCost,p.currency)}</b></div><div><span class="label">Performance</span><b class="${p.gain>=0?'good':'bad'}">${pct(p.perf)}</b></div></div></article>`).join('')}</div>`}
-function dashboard(){const {ps,cryptoValue,cryptoCost,otherValue,otherCost}=portfolioBreakdown(),cryptoGain=cryptoValue-cryptoCost,otherGain=otherValue-otherCost,{crypto,bourse,total}=contributionTotals();return `<section class="hero"><article class="card"><span class="label">Portefeuille crypto</span><div class="value">${money(cryptoValue,'USD')}</div><span class="${cryptoGain>=0?'good':'bad'}">${money(cryptoGain,'USD')} · ${pct(cryptoCost?cryptoGain/cryptoCost*100:0)}</span><p class="muted">BTC, ETH, LINK, TIA et USDC sont toujours affichés et calculés en dollars.</p></article><article class="card"><span class="label">Portefeuille bourse et liquidités</span><div class="value" style="font-size:2.2rem">${eur.format(otherValue)}</div><span class="${otherGain>=0?'good':'bad'}">${eur.format(otherGain)} · ${pct(otherCost?otherGain/otherCost*100:0)}</span><p class="muted">Positions en euros : ETF et espèces.</p></article></section><section class="hero"><article class="card"><span class="label">TOTAL INVEST — depuis le début</span><div class="value" style="font-size:2.2rem">${eur.format(total)}</div><div style="display:flex;justify-content:space-between;margin-top:12px"><span>Investissements Crypto</span><b>${eur.format(crypto)}</b></div><div style="display:flex;justify-content:space-between;margin-top:10px"><span>Investissements Bourse</span><b>${eur.format(bourse)}</b></div><p class="muted">Ce suivi correspond aux sommes en euros versées vers vos comptes d’investissement. Il est indépendant des achats d’actifs.</p></article><article class="card"><span class="label">Suivi local</span><div class="kpi-inline"><div><b>${ps.length}</b><span>positions</span></div><div><b>${state.assetTransactions.length}</b><span>opérations récentes</span></div><div><b>${state.contributions.length}</b><span>apports TOTAL INVEST</span></div></div></article></section><div class="section-head"><h2>Positions principales</h2><button class="secondary" data-go="portfolio">Tout voir</button></div>${assetCards(ps)}<div class="section-head"><h2>TOTAL INVEST par année</h2><button class="secondary" data-go="contributions">Voir le détail</button></div>${annualTable(annual().slice(0,8))}`}
-
+function dashboard(){
+  const {cryptoValue,otherValue}=portfolioBreakdown();
+  const invested=contributionTotals();
+  const rate=+state.settings.usdToEur||0;
+  const cryptoValueEUR=cryptoValue*rate;
+  const currentTotalEUR=cryptoValueEUR+otherValue;
+  const cryptoGainEUR=cryptoValueEUR-invested.crypto;
+  const bourseGainEUR=otherValue-invested.bourse;
+  const globalGainEUR=currentTotalEUR-invested.total;
+  const cryptoPerf=invested.crypto?cryptoGainEUR/invested.crypto*100:0;
+  const boursePerf=invested.bourse?bourseGainEUR/invested.bourse*100:0;
+  const globalPerf=invested.total?globalGainEUR/invested.total*100:0;
+  return `<section class="card home-summary">
+    <span class="label">Apports cumulés depuis le début</span>
+    <div class="value">${eur.format(invested.total)}</div>
+    <div class="summary-split">
+      <div><span>Crypto</span><b>${eur.format(invested.crypto)}</b></div>
+      <div><span>Bourse</span><b>${eur.format(invested.bourse)}</b></div>
+    </div>
+  </section>
+  <section class="card performance-main">
+    <span class="label">Performance globale à l’instant T</span>
+    <div class="value ${globalGainEUR>=0?'good':'bad'}">${globalGainEUR>=0?'+':''}${eur.format(globalGainEUR)}</div>
+    <div class="performance-percent ${globalGainEUR>=0?'good':'bad'}">${pct(globalPerf)}</div>
+    <div class="valuation-line"><span>Valeur actuelle Crypto + Bourse</span><b>${eur.format(currentTotalEUR)}</b></div>
+    <p class="muted">La valeur des cryptos est convertie en euros avec le taux enregistré : 1 $ = ${rate.toFixed(4).replace('.',',')} €.</p>
+  </section>
+  <section class="performance-grid">
+    <article class="card">
+      <div class="section-label">CRYPTO</div>
+      <div class="metric-row"><span>Valeur actuelle</span><b>${money(cryptoValue,'USD')}</b></div>
+      <div class="metric-row"><span>Équivalent en euros</span><b>${eur.format(cryptoValueEUR)}</b></div>
+      <div class="metric-row"><span>Apports cumulés</span><b>${eur.format(invested.crypto)}</b></div>
+      <div class="category-result ${cryptoGainEUR>=0?'good':'bad'}">${cryptoGainEUR>=0?'+':''}${eur.format(cryptoGainEUR)} · ${pct(cryptoPerf)}</div>
+    </article>
+    <article class="card">
+      <div class="section-label">BOURSE</div>
+      <div class="metric-row"><span>Valeur actuelle</span><b>${eur.format(otherValue)}</b></div>
+      <div class="metric-row"><span>Apports cumulés</span><b>${eur.format(invested.bourse)}</b></div>
+      <div class="category-result ${bourseGainEUR>=0?'good':'bad'}">${bourseGainEUR>=0?'+':''}${eur.format(bourseGainEUR)} · ${pct(boursePerf)}</div>
+    </article>
+  </section>
+  <div class="section-head"><h2>Apports par année</h2><button class="secondary" data-go="contributions">Voir le détail</button></div>
+  ${annualTable(annual().slice(0,8))}`
+}
 function annualTable(rows=annual()){return `<article class="card"><table class="annual-table"><thead><tr><th>Année</th><th>Crypto</th><th>Bourse</th><th>Total</th></tr></thead><tbody>${rows.map(([y,v])=>`<tr><td><b>${y}</b></td><td>${eur.format(v.Crypto||0)}</td><td>${eur.format(v.Bourse||0)}</td><td><b>${eur.format((v.Crypto||0)+(v.Bourse||0))}</b></td></tr>`).join('')}</tbody></table></article>`}
-function portfolio(){const ps=livePositions();return `<div class="section-head"><div><h2>Portefeuille</h2><span class="muted">Positions initiales actualisées par vos nouvelles opérations</span></div><button class="primary" id="newAssetTx">Nouvelle opération</button></div>${assetCards(ps)}<div class="section-head"><h2>Cours actuels saisis manuellement</h2></div><div class="settings-grid">${ps.map(p=>`<article class="card"><b>${esc(p.symbol)} · ${esc(p.name)}</b><form class="price-form" data-id="${p.id}" style="display:grid;grid-template-columns:1fr auto;gap:8px;margin-top:12px"><input name="price" type="number" step="any" value="${p.currentPrice}"><button class="secondary">Mettre à jour (${p.currency})</button></form></article>`).join('')}</div>`}
+function portfolio(){
+  const ps=livePositions();
+  const crypto=ps.filter(p=>p.category==='Crypto');
+  const bourse=ps.filter(p=>p.category!=='Crypto');
+  return `<div class="section-head"><div><h2>Portefeuille</h2><span class="muted">Positions actuelles, mises à jour par vos nouvelles opérations</span></div><button class="primary" id="newAssetTx">Nouvelle opération</button></div>
+  <div class="category-title"><span>Crypto</span><small>Valeurs en dollars</small></div>
+  ${assetCards(crypto)}
+  <div class="category-title"><span>Bourse</span><small>Valeurs en euros</small></div>
+  ${assetCards(bourse)}
+  <div class="section-head"><h2>Cours actuels saisis manuellement</h2></div>
+  <div class="settings-grid">${ps.map(p=>`<article class="card"><b>${esc(p.symbol)} · ${esc(p.name)}</b><form class="price-form" data-id="${p.id}" style="display:grid;grid-template-columns:1fr auto;gap:8px;margin-top:12px"><input name="price" type="number" step="any" value="${p.currentPrice}"><button class="secondary">Mettre à jour (${p.currency})</button></form></article>`).join('')}</div>`
+}
 function operations(){const tx=[...state.assetTransactions].sort((a,b)=>b.date.localeCompare(a.date));return `<div class="section-head"><div><h2>Opérations depuis le point de départ</h2><span class="muted">Les anciennes transactions détaillées ne sont pas reprises.</span></div><button class="primary" id="newAssetTx">Ajouter</button></div><div class="compact-list">${tx.map(t=>{const p=state.positions.find(x=>x.id===t.positionId)||{};return `<article class="compact-row"><div><b>${dateFmt.format(new Date(t.date+'T12:00:00'))}</b></div><div><b>${esc(p.symbol)} · ${esc({BUY:'Achat',SELL:'Vente',REWARD:'Récompense',ADJUSTMENT:'Correction'}[t.type])}</b><span class="muted">${num.format(t.quantity)} à ${money(t.unitPrice,p.currency||'EUR')}</span></div><div class="hide-mobile">${esc(t.note||'')}</div><button class="danger" data-delete-tx="${t.id}">×</button></article>`}).join('')||'<div class="empty card">Aucune nouvelle opération. Votre portefeuille repose pour le moment uniquement sur la position initiale.</div>'}</div>`}
 function contributions(){const rows=[...state.contributions].sort((a,b)=>b.date.localeCompare(a.date)),{crypto,bourse,total}=contributionTotals(),destinations=destinationTotals();return `<section class="kpi-grid"><article class="card kpi"><span class="label">TOTAL INVEST — Crypto</span><strong>${eur.format(crypto)}</strong></article><article class="card kpi"><span class="label">TOTAL INVEST — Bourse</span><strong>${eur.format(bourse)}</strong></article><article class="card kpi"><span class="label">TOTAL INVEST global</span><strong>${eur.format(total)}</strong></article></section><div class="section-head"><div><h2>Suivi global des sommes investies</h2><span class="muted">Reprise du tableau TOTAL INVEST. Tous les montants de cette section sont en euros.</span></div><button class="primary" id="newContribution">Ajouter un investissement</button></div>${annualTable()}<div class="section-head"><h2>Répartition par destination</h2></div><article class="card"><table class="annual-table"><thead><tr><th>Compte / plateforme</th><th>Total net investi</th></tr></thead><tbody>${destinations.map(([name,amount])=>`<tr><td><b>${esc(name)}</b></td><td><b>${eur.format(amount)}</b></td></tr>`).join('')}</tbody></table></article><div class="section-head"><h2>Détail TOTAL INVEST</h2></div><div class="compact-list">${rows.map(c=>`<article class="compact-row"><div><b>${dateFmt.format(new Date(c.date+'T12:00:00'))}</b></div><div><b>${esc(c.domain)} · ${esc(c.destination)}</b><span class="muted">${esc(c.note||'')}</span></div><div class="hide-mobile"><b class="${c.amount>=0?'good':'bad'}">${eur.format(c.amount)}</b></div><div class="button-row"><button class="secondary" data-edit-contribution="${c.id}">✎</button><button class="danger" data-delete-contribution="${c.id}">×</button></div></article>`).join('')}</div>`}
 

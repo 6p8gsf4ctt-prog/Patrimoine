@@ -1,26 +1,19 @@
-# Mon Patrimoine — version 4
+# Patrimoine PWA — version 5
 
-PWA autonome, sans API et sans Excel.
+Application locale et autonome, sans API ni Excel.
 
-## Devises
+## Page d’accueil
 
-- BTC, ETH, LINK, TIA et USDC : affichage, PRU, coût, valeur et performance en **USD**.
-- ETF, espèces et suivi TOTAL INVEST : affichage en **EUR**.
-- Le taux USD/EUR sert uniquement à une éventuelle consolidation interne ; il ne change jamais l’affichage des positions crypto.
+- apports cumulés Crypto et Bourse en euros ;
+- performance globale en euros et en pourcentage ;
+- conversion de la valorisation crypto USD vers EUR pour le calcul global ;
+- détail des performances Crypto et Bourse ;
+- synthèse annuelle des apports.
 
-## TOTAL INVEST
+## Portefeuille
 
-L’application conserve le suivi global de la feuille `TOTAL INVEST` :
+- section Crypto : BTC, ETH, LINK, TIA et USDC en dollars ;
+- section Bourse : ETF et liquidités en euros ;
+- PRU recalculé après chaque nouvelle opération.
 
-- investissements Crypto en euros ;
-- investissements Bourse en euros ;
-- cumul global depuis le début ;
-- synthèse annuelle ;
-- répartition par compte ou plateforme ;
-- ajout de nouveaux investissements en euros.
-
-Un investissement TOTAL INVEST ne modifie pas automatiquement une position du portefeuille.
-
-## Publication GitHub Pages
-
-Placez tous les fichiers à la racine du dépôt, puis choisissez **Settings → Pages → GitHub Actions**.
+Le taux USD/EUR est modifiable dans Réglages. Les données restent dans IndexedDB sur l’appareil.
