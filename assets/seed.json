@@ -1,7 +1,7 @@
 {
-  "version": 3,
+  "version": 4,
   "settings": {
-    "dataVersion": 3,
+    "dataVersion": 4,
     "usdToEur": 0.8474576271,
     "snapshotDate": "2026-07-31"
   },
