@@ -22,3 +22,7 @@ Le taux USD/EUR est modifiable dans Réglages. Les données restent dans Indexed
 ## Correction v6
 
 Ajout de la position Core S&P 500 USD (Acc) : 3,658525 parts, PRU 461,57 €, valeur initiale 2 561,99 €, gain latent 873,32 € (+51,72 %). La migration l'ajoute automatiquement aux installations existantes sans effacer les données locales.
+
+
+## Version 7
+Correction du cache PWA et migration forcée de la position Core S&P 500 USD (Acc). Le service worker utilise un nouveau cache et les données initiales sont chargées sans cache.
