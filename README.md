@@ -1,28 +1,16 @@
-# Patrimoine PWA — version 5
+# Mon Patrimoine — V2
 
-Application locale et autonome, sans API ni Excel.
+Refonte de l’interface pour l’aligner sur l’application Budget : en-têtes, cartes, listes, onglets inférieurs, feuilles modales et typographie système.
 
-## Page d’accueil
+## Nouveautés
 
-- apports cumulés Crypto et Bourse en euros ;
-- performance globale en euros et en pourcentage ;
-- conversion de la valorisation crypto USD vers EUR pour le calcul global ;
-- détail des performances Crypto et Bourse ;
-- synthèse annuelle des apports.
+- suppression de l’écran séparé de saisie des cours ;
+- ouverture d’une fiche en touchant une position ;
+- modification du cours actuel depuis la fiche ;
+- synthèse de répartition limitée à Crypto et Bourse ;
+- conservation des données IndexedDB existantes ;
+- cache PWA renouvelé (`patrimoine-v2-20`).
 
-## Portefeuille
+## Déploiement
 
-- section Crypto : BTC, ETH, LINK, TIA et USDC en dollars ;
-- section Bourse : ETF et liquidités en euros ;
-- PRU recalculé après chaque nouvelle opération.
-
-Le taux USD/EUR est modifiable dans Réglages. Les données restent dans IndexedDB sur l’appareil.
-
-
-## Correction v6
-
-Ajout de la position Core S&P 500 USD (Acc) : 3,658525 parts, PRU 461,57 €, valeur initiale 2 561,99 €, gain latent 873,32 € (+51,72 %). La migration l'ajoute automatiquement aux installations existantes sans effacer les données locales.
-
-
-## Version 7
-Correction du cache PWA et migration forcée de la position Core S&P 500 USD (Acc). Le service worker utilise un nouveau cache et les données initiales sont chargées sans cache.
+Copier tout le contenu de ce dossier à la racine du dépôt GitHub Pages, puis attendre la fin du déploiement. Fermer et rouvrir l’application installée afin d’activer le nouveau service worker.

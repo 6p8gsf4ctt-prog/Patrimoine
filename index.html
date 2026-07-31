@@ -1,4 +1,85 @@
-<!doctype html><html lang="fr"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#08101d"><meta name="description" content="Gestion locale et autonome du patrimoine."><link rel="manifest" href="./manifest.webmanifest"><link rel="apple-touch-icon" href="./assets/icons/icon-192.png"><link rel="icon" href="./assets/icons/icon-192.png"><link rel="stylesheet" href="./styles.css?v=7"><title>Mon Patrimoine</title></head><body><header class="topbar"><div><span class="eyebrow">HORS LIGNE · LOCAL</span><h1>Mon Patrimoine</h1></div><button id="installBtn" class="secondary hidden">Installer</button></header><main id="app" class="container"></main><nav class="bottom-nav"><button data-view="dashboard" class="active"><span>◫</span>Accueil</button><button data-view="portfolio"><span>◉</span>Portefeuille</button><button data-view="operations"><span>↕</span>Opérations</button><button data-view="contributions"><span>€</span>Apports</button><button data-view="settings"><span>⚙</span>Réglages</button></nav>
-<dialog id="assetDialog"><form id="assetForm" class="form-grid"><div class="dialog-head"><h2 id="assetTitle">Opération sur un actif</h2><button type="button" class="icon-btn" data-close="assetDialog">×</button></div><input type="hidden" name="id"><label>Actif<select name="positionId" required></select></label><label>Type<select name="type"><option value="BUY">Achat</option><option value="SELL">Vente</option><option value="REWARD">Récompense / intérêt</option><option value="ADJUSTMENT">Correction de quantité</option></select></label><label>Date<input name="date" type="date" required></label><label>Quantité<input name="quantity" type="number" step="any" required></label><label>Prix unitaire<input name="unitPrice" type="number" step="any" required></label><label>Frais<input name="fees" type="number" step="any" value="0"></label><label class="full">Note<textarea name="note" rows="2"></textarea></label><div class="dialog-actions full"><button type="button" class="secondary" data-close="assetDialog">Annuler</button><button class="primary">Enregistrer</button></div></form></dialog>
-<dialog id="contributionDialog"><form id="contributionForm" class="form-grid"><div class="dialog-head"><h2 id="contributionTitle">Ajouter un apport</h2><button type="button" class="icon-btn" data-close="contributionDialog">×</button></div><input type="hidden" name="id"><label>Date<input name="date" type="date" required></label><label>Domaine<select name="domain"><option>Crypto</option><option>Bourse</option></select></label><label>Montant en euros<input name="amount" type="number" step="0.01" required></label><label>Destination<input name="destination" placeholder="Binance, Bourse Direct…" required></label><label class="full">Note<textarea name="note" rows="2"></textarea></label><div class="dialog-actions full"><button type="button" class="secondary" data-close="contributionDialog">Annuler</button><button class="primary">Enregistrer</button></div></form></dialog>
-<script src="./app.js?v=7" defer></script></body></html>
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#f5f5f7">
+  <meta name="description" content="Gestion locale et autonome du patrimoine.">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="apple-touch-icon" href="./assets/icons/icon-192.png">
+  <link rel="icon" href="./assets/icons/icon-192.png">
+  <link rel="stylesheet" href="./styles.css?v=20">
+  <title>Mon Patrimoine</title>
+</head>
+<body>
+  <header class="app-header">
+    <div>
+      <span class="overline" id="viewOverline">VUE D’ENSEMBLE</span>
+      <h1 id="viewTitle">Accueil</h1>
+    </div>
+    <button id="installBtn" class="icon-action hidden" aria-label="Installer l’application">↓</button>
+  </header>
+
+  <main id="app" class="app-content"></main>
+
+  <nav class="tab-bar" aria-label="Navigation principale">
+    <button data-view="dashboard" class="active"><span class="tab-icon">⌂</span><span>Accueil</span></button>
+    <button data-view="portfolio"><span class="tab-icon">◉</span><span>Positions</span></button>
+    <button data-view="operations"><span class="tab-icon">↕</span><span>Opérations</span></button>
+    <button data-view="contributions"><span class="tab-icon">€</span><span>Apports</span></button>
+    <button data-view="settings"><span class="tab-icon">⚙</span><span>Réglages</span></button>
+  </nav>
+
+  <dialog id="assetDetailDialog" class="sheet">
+    <div class="sheet-handle"></div>
+    <div id="assetDetailContent"></div>
+  </dialog>
+
+  <dialog id="priceDialog" class="modal-card">
+    <form id="priceForm">
+      <input type="hidden" name="positionId">
+      <span class="overline">MODIFICATION</span>
+      <h2 id="priceTitle">Cours actuel</h2>
+      <label>Cours actuel <span id="priceCurrency"></span>
+        <input name="currentPrice" inputmode="decimal" type="number" step="any" required>
+      </label>
+      <div class="modal-actions">
+        <button type="button" class="button secondary" data-close="priceDialog">Annuler</button>
+        <button class="button primary">Enregistrer</button>
+      </div>
+    </form>
+  </dialog>
+
+  <dialog id="assetDialog" class="modal-card">
+    <form id="assetForm" class="form-stack">
+      <input type="hidden" name="id">
+      <span class="overline">OPÉRATION</span>
+      <h2 id="assetTitle">Nouvelle opération</h2>
+      <label>Actif<select name="positionId" required></select></label>
+      <label>Type<select name="type"><option value="BUY">Achat</option><option value="SELL">Vente</option><option value="REWARD">Récompense / intérêt</option><option value="ADJUSTMENT">Correction de quantité</option></select></label>
+      <label>Date<input name="date" type="date" required></label>
+      <label>Quantité<input name="quantity" type="number" step="any" required></label>
+      <label>Prix unitaire<input name="unitPrice" type="number" step="any" required></label>
+      <label>Frais<input name="fees" type="number" step="any" value="0"></label>
+      <label>Note<textarea name="note" rows="2"></textarea></label>
+      <div class="modal-actions"><button type="button" class="button secondary" data-close="assetDialog">Annuler</button><button class="button primary">Enregistrer</button></div>
+    </form>
+  </dialog>
+
+  <dialog id="contributionDialog" class="modal-card">
+    <form id="contributionForm" class="form-stack">
+      <input type="hidden" name="id">
+      <span class="overline">APPORT</span>
+      <h2 id="contributionTitle">Ajouter un apport</h2>
+      <label>Date<input name="date" type="date" required></label>
+      <label>Domaine<select name="domain"><option>Crypto</option><option>Bourse</option></select></label>
+      <label>Montant en euros<input name="amount" type="number" step="0.01" required></label>
+      <label>Destination<input name="destination" placeholder="Binance, Bourse Direct…" required></label>
+      <label>Note<textarea name="note" rows="2"></textarea></label>
+      <div class="modal-actions"><button type="button" class="button secondary" data-close="contributionDialog">Annuler</button><button class="button primary">Enregistrer</button></div>
+    </form>
+  </dialog>
+
+  <script src="./app.js?v=20" defer></script>
+</body>
+</html>

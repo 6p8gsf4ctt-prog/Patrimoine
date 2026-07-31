@@ -1,9 +1,10 @@
 {
   "version": 7,
   "settings": {
-    "dataVersion": 7,
+    "dataVersion": 8,
     "usdToEur": 0.8474576271,
-    "snapshotDate": "2026-07-31"
+    "snapshotDate": "2026-07-31",
+    "appVersion": "8.0.0"
   },
   "positions": [
     {
@@ -1500,6 +1501,14 @@
       "amount": 30.0,
       "destination": "TRADE REPUBLIC",
       "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 65"
+    },
+    {
+      "id": "total-invest-bourse-66",
+      "date": "2026-07-01",
+      "domain": "Bourse",
+      "amount": 30.0,
+      "destination": "TRADE REPUBLIC",
+      "note": "TOTAL INVEST — tableau INVESTISSEMENT BOURSE, ligne 66"
     }
   ]
 }
