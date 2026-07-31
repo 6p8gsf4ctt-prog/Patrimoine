@@ -1,3 +1,10 @@
+# Mon Patrimoine V2.9
+
+- Classement des apports enregistrés par année avec des onglets 2026, 2025, 2024, etc.
+- Affichage du total de l’année sélectionnée.
+- Conservation des actions Modifier et Supprimer.
+- Les données locales existantes sont conservées.
+
 # Mon Patrimoine 2.2
 
 Cette version ajoute :
