@@ -8,7 +8,7 @@
   <link rel="manifest" href="./manifest.webmanifest">
   <link rel="apple-touch-icon" href="./assets/icons/icon-192.png">
   <link rel="icon" href="./assets/icons/icon-192.png">
-  <link rel="stylesheet" href="./styles.css?v=31">
+  <link rel="stylesheet" href="./styles.css?v=33">
   <title>Mon Patrimoine</title>
 </head>
 <body>
@@ -17,7 +17,7 @@
       <span class="overline" id="viewOverline">VUE D’ENSEMBLE</span>
       <h1 id="viewTitle">Accueil</h1>
     </div>
-    <div class="header-actions"><button id="marketRefreshBtn" class="icon-action" aria-label="Actualiser les cours" title="Actualiser les cours">↻</button><button id="installBtn" class="icon-action hidden" aria-label="Installer l’application">↓</button></div>
+    <div class="header-actions"><button id="quickAddBtn" class="icon-action quick-add" aria-label="Ajouter" title="Ajouter">+</button><button id="marketRefreshBtn" class="icon-action" aria-label="Actualiser les cours" title="Actualiser les cours">↻</button><button id="installBtn" class="icon-action hidden" aria-label="Installer l’application">↓</button></div>
   </header>
 
   <main id="app" class="app-content"></main>
@@ -29,6 +29,34 @@
     <button data-view="contributions"><span class="tab-icon">€</span><span>Apports</span></button>
     <button data-view="settings"><span class="tab-icon">⚙</span><span>Réglages</span></button>
   </nav>
+
+
+  <dialog id="quickAddDialog" class="sheet quick-add-sheet">
+    <div class="sheet-handle"></div>
+    <span class="overline">NOUVELLE ACTION</span>
+    <h2>Que souhaitez-vous faire ?</h2>
+    <div class="quick-add-list apple-action-list">
+      <button type="button" class="quick-add-choice" data-quick="contribution"><span><strong>Ajouter un apport</strong><small>Crypto ou Bourse, en euros</small></span><span class="chevron">›</span></button>
+      <button type="button" class="quick-add-choice" data-quick="buy"><span><strong>Acheter un actif</strong><small>Mettre à jour la quantité et le PRU</small></span><span class="chevron">›</span></button>
+      <button type="button" class="quick-add-choice" data-quick="sell"><span><strong>Vendre un actif</strong><small>Diminuer la quantité détenue</small></span><span class="chevron">›</span></button>
+      <button type="button" class="quick-add-choice" data-quick="reward"><span><strong>Ajouter une récompense</strong><small>Staking ou intérêts</small></span><span class="chevron">›</span></button>
+      <button type="button" class="quick-add-choice" data-quick="transfer"><span><strong>Changer de plateforme</strong><small>Conserver la quantité et le PRU</small></span><span class="chevron">›</span></button>
+      <button type="button" class="quick-add-choice" data-quick="position"><span><strong>Ajouter un nouvel actif</strong><small>Crypto ou Bourse</small></span><span class="chevron">›</span></button>
+    </div>
+    <button type="button" class="button secondary wide" data-close="quickAddDialog">Fermer</button>
+  </dialog>
+
+  <dialog id="transferDialog" class="modal-card">
+    <form id="transferForm" class="form-stack">
+      <span class="overline">TRANSFERT</span>
+      <h2>Changer de plateforme</h2>
+      <label>Position<select name="positionId" required></select></label>
+      <label>Nouvelle plateforme / compte<input name="account" required placeholder="Binance, Bourse Direct…"></label>
+      <label>Date<input name="date" type="date" required></label>
+      <label>Note<textarea name="note" rows="2" placeholder="Transfert sans vente"></textarea></label>
+      <div class="modal-actions"><button type="button" class="button secondary" data-close="transferDialog">Annuler</button><button class="button primary">Enregistrer</button></div>
+    </form>
+  </dialog>
 
   <dialog id="assetDetailDialog" class="sheet">
     <div class="sheet-handle"></div>
@@ -52,7 +80,7 @@
 
   <dialog id="positionDialog" class="modal-card">
     <form id="positionForm" class="form-stack">
-      <input type="hidden" name="positionId">
+      <input type="hidden" name="positionId"><input type="hidden" name="createMode" value="0">
       <span class="overline">POSITION</span>
       <h2 id="positionEditTitle">Modifier la position</h2>
       <label>Symbole<input name="symbol" required maxlength="20" placeholder="BTC"></label>
@@ -65,7 +93,7 @@
       <label>PRU<input name="averageCost" inputmode="decimal" type="number" step="any" min="0" required></label>
       <label>Cours actuel<input name="currentPrice" inputmode="decimal" type="number" step="any" min="0" required></label>
       <label>Date de la position initiale<input name="openingDate" type="date" required></label>
-      <label>Notes<textarea name="notes" rows="3"></textarea></label>
+      <label>Identifiant de marché<input name="marketId" placeholder="solana ou EQQQ.PA"></label><p class="form-hint compact-hint">CoinGecko pour la Crypto, symbole Yahoo Finance pour la Bourse.</p><label>Notes<textarea name="notes" rows="3"></textarea></label>
       <p class="form-hint">La modification de la quantité ou du PRU redéfinit le coût de revient initial de cette position. Les opérations enregistrées après la photographie initiale restent conservées.</p>
       <div class="modal-actions"><button type="button" class="button secondary" data-close="positionDialog">Annuler</button><button class="button primary">Enregistrer</button></div>
     </form>
@@ -82,7 +110,7 @@
       <label>Quantité<input name="quantity" type="number" step="any" required></label>
       <label>Prix unitaire<input name="unitPrice" type="number" step="any" required></label>
       <label>Frais<input name="fees" type="number" step="any" value="0"></label>
-      <label>Note<textarea name="note" rows="2"></textarea></label>
+      <label>Note<textarea name="note" rows="2"></textarea></label><div id="linkedContributionBlock" class="linked-contribution hidden"><label class="check-row"><input type="checkbox" name="addContribution" value="1"><span>Enregistrer aussi un apport en euros</span></label><div class="linked-fields"><label>Montant de l’apport (€)<input name="contributionAmount" type="number" step="0.01" min="0"></label><label>Destination<input name="contributionDestination" placeholder="Binance, Bourse Direct…"></label></div></div>
       <div class="modal-actions"><button type="button" class="button secondary" data-close="assetDialog">Annuler</button><button class="button primary">Enregistrer</button></div>
     </form>
   </dialog>
@@ -92,15 +120,25 @@
       <input type="hidden" name="id">
       <span class="overline">APPORT</span>
       <h2 id="contributionTitle">Ajouter un apport</h2>
+      <label>Type d’investissement<select name="domain"><option>Crypto</option><option>Bourse</option></select></label>
+      <label>Montant en euros<input name="amount" type="number" step="0.01" min="0" required></label>
+      <label>Destination<input name="destination" placeholder="Binance, SwissBorg, Bourse Direct…" required></label>
       <label>Date<input name="date" type="date" required></label>
-      <label>Domaine<select name="domain"><option>Crypto</option><option>Bourse</option></select></label>
-      <label>Montant en euros<input name="amount" type="number" step="0.01" required></label>
-      <label>Destination<input name="destination" placeholder="Binance, Bourse Direct…" required></label>
-      <label>Note<textarea name="note" rows="2"></textarea></label>
+      <label>Note facultative<textarea name="note" rows="2"></textarea></label>
       <div class="modal-actions"><button type="button" class="button secondary" data-close="contributionDialog">Annuler</button><button class="button primary">Enregistrer</button></div>
     </form>
   </dialog>
 
-  <script src="./app.js?v=31" defer></script>
+
+  <dialog id="restoreDialog" class="modal-card">
+    <div class="form-stack">
+      <span class="overline">RESTAURATION</span>
+      <h2>Vérifier la sauvegarde</h2>
+      <div id="restorePreview"></div>
+      <div class="modal-actions"><button type="button" class="button secondary" data-close="restoreDialog">Annuler</button><button type="button" class="button primary" id="confirmRestoreBtn">Restaurer</button></div>
+    </div>
+  </dialog>
+
+  <script src="./app.js?v=35" defer></script>
 </body>
 </html>
