@@ -1,10 +1,15 @@
 {
-  "version": 8,
+  "version": 30,
   "settings": {
-    "dataVersion": 8,
+    "dataVersion": 30,
     "usdToEur": 0.8474576271,
     "snapshotDate": "2026-07-31",
-    "appVersion": "2.7.0"
+    "appVersion": "3.0.0",
+    "autoMarketUpdate": true,
+    "marketSymbols": {
+      "EWLD": "ewld.fr",
+      "S&P 500": "sxr8.de"
+    }
   },
   "positions": [
     {

@@ -1,51 +1,20 @@
-# Mon Patrimoine V2.9
+# Mon Patrimoine — V3.0
 
-- Classement des apports enregistrés par année avec des onglets 2026, 2025, 2024, etc.
-- Affichage du total de l’année sélectionnée.
-- Conservation des actions Modifier et Supprimer.
-- Les données locales existantes sont conservées.
+PWA patrimoniale avec données personnelles enregistrées localement et cotations publiques actualisées en ligne.
 
-# Mon Patrimoine 2.2
+## Cotations automatiques
 
-Cette version ajoute :
+- BTC, ETH, LINK, TIA, USDC et USDT : CoinGecko, en USD.
+- EWLD : cotation `EWLD.FR`.
+- Core S&P 500 : cotation `SXR8.DE` correspondant à l’ISIN IE00B5BMR087.
+- USD/EUR : taux de référence Frankfurter/ECB.
 
-- un tableau de bord plus visuel avec jauges et plus/moins-values ;
-- un historique local des performances, alimenté à chaque journée et après les modifications ;
-- les plus haut, plus bas et évolution depuis le premier relevé ;
-- un calendrier mensuel des apports Crypto et Bourse ;
-- l’ajout d’un apport en touchant directement un jour du calendrier ;
-- la conservation et l’export des relevés historiques.
+Au démarrage, l’application tente une actualisation. En cas d’absence de réseau ou d’indisponibilité d’une source, elle conserve les derniers cours locaux. Une saisie manuelle reste disponible dans la fiche de chaque actif.
 
-Les données restent stockées localement dans IndexedDB. L’historique de valorisation commence lors de la première ouverture de cette version, car les cours historiques antérieurs ne peuvent pas être reconstitués avec exactitude.
+## Déploiement
 
+Placez tous les fichiers directement à la racine du dépôt GitHub Pages. Après déploiement, fermez puis rouvrez la PWA installée pour charger le cache V3.0.
 
-## Version 2.3
-- Suppression de l’historique des performances.
-- Remplacement du calendrier par un historique mensuel en tableau.
-- Déplacement du bouton Ajouter au-dessus des apports enregistrés.
-- Ajout de la suppression des apports.
+## Confidentialité
 
-
-## Version 2.6
-
-- Onglets annuels pour l'historique mensuel des apports.
-- Affichage des seuls mois de l'année sélectionnée.
-- Sélection automatique de l'année la plus récente.
-
-
-## V2.6
-
-Chaque position peut désormais être modifiée entièrement depuis sa fiche : symbole, nom, catégorie, compte ou plateforme, devise, quantité, PRU, cours actuel, date initiale et notes.
-
-
-## V2.6
-- Cartes des positions harmonisées avec la section Répartition.
-- Valeur actuelle, gain/perte dans la devise de l’actif et équivalent EUR pour les actifs USD.
-- Pourcentage coloré et jauge valeur/coût de revient pour chaque position.
-
-
-## Version 2.7
-- Stablecoins séparés des cryptomonnaies investies.
-- Espèces et cash PEA séparés des positions Bourse.
-- Les liquidités n’affichent ni performance ni jauge.
-- Nature de l’actif modifiable dans la fiche de position.
+Positions, opérations et apports restent dans IndexedDB sur l’appareil. Seuls les symboles publics nécessaires aux cotations sont envoyés aux fournisseurs de marché.
