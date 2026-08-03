@@ -1,6 +1,18 @@
-# Mon Patrimoine — V3.1
+# Mon Patrimoine — V4.0
 
-Application PWA de suivi patrimonial.
+Application PWA locale de suivi patrimonial, modernisée avec une interface sombre inspirée d’iOS et une identité violette propre à Patrimoine.
+
+## Continuité V3.5
+
+La V4 conserve strictement :
+
+- les cinq onglets Accueil, Positions, Opérations, Apports et Réglages, dans le même ordre ;
+- les formulaires, leurs champs et les parcours d’ajout/modification ;
+- les catégories, positions, opérations, apports, récompenses et transferts ;
+- les calculs financiers ;
+- la base IndexedDB `patrimoine-simple-db`, sa version et ses magasins ;
+- le fonctionnement hors ligne et l’installation PWA ;
+- les anciennes sauvegardes V3.5.
 
 ## Cotations automatiques
 
@@ -9,23 +21,18 @@ Application PWA de suivi patrimonial.
 - Amundi MSCI World `EWLD.PA` : Yahoo Finance, avec secours Stooq
 - iShares Core S&P 500 `SXR8.DE` : Yahoo Finance, avec secours Stooq
 
-L’écran Réglages indique séparément le succès ou l’échec de chaque cotation. Les derniers cours restent conservés localement hors connexion.
+Les derniers cours valides restent enregistrés localement et affichés en cas d’échec réseau.
+
+## Sauvegardes V4
+
+Les exports V4 ajoutent les métadonnées `suite`, `app`, `schemaVersion`, `appVersion`, `exportedAt`, `data` et `settings`. Les champs historiques V3.5 restent aussi présents afin de préserver la compatibilité.
+
+Nom de fichier : `Patrimoine_YYYY-MM-DD_HH-MM.json`.
+
+Avant restauration, l’application vérifie le type du fichier, sa structure, sa version, son contenu et affiche un résumé. Une copie locale de sécurité est créée avant remplacement.
 
 ## Publication
 
 Placez tous les fichiers à la racine du dépôt GitHub Pages en conservant les dossiers `assets/icons` et `.github/workflows`.
 
-
-## Parcours d’ajout unifié
-
-Le bouton + de l’en-tête permet d’enregistrer un apport, un achat, une vente, une récompense, un transfert de plateforme ou une nouvelle position. Un achat peut également créer l’apport correspondant en euros dans la même étape.
-
-
-## V3.5 — parcours d’ajout personnalisé
-
-Le bouton `+` utilise désormais le vocabulaire exact de l’application personnelle : apport Crypto/Bourse, achat, vente, récompense, changement de plateforme et nouvel actif. L’interface reste sans emoji et reprend les cartes, espacements et couleurs de l’ensemble de l’application.
-
-
-## Sauvegarde V3.5
-
-La section Réglages permet d’exporter un fichier JSON daté, de vérifier une sauvegarde avant restauration et de réinitialiser les données avec une double confirmation. Un rappel apparaît après 30 jours sans export.
+L’audit détaillé avant/après se trouve dans `AUDIT_V4.md` et `COMPTE_RENDU_V4.md`.

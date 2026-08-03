@@ -1,14 +1,19 @@
 {
+  "id":"./",
   "name":"Mon Patrimoine",
   "short_name":"Patrimoine",
+  "description":"Gestion locale, autonome et hors ligne du patrimoine.",
   "start_url":"./",
   "scope":"./",
   "display":"standalone",
-  "background_color":"#f5f5f7",
-  "theme_color":"#f5f5f7",
+  "display_override":["standalone"],
+  "orientation":"portrait-primary",
+  "background_color":"#000000",
+  "theme_color":"#000000",
   "lang":"fr",
+  "categories":["finance","utilities"],
   "icons":[
-    {"src":"./assets/icons/icon-192.png","sizes":"192x192","type":"image/png"},
-    {"src":"./assets/icons/icon-512.png","sizes":"512x512","type":"image/png"}
+    {"src":"./assets/icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./assets/icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
   ]
 }

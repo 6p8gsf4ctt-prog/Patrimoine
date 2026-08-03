@@ -1,0 +1,43 @@
+Patrimoine V4 — contrôles automatisés
+Date: 2026-08-03
+
+app.js syntax: OK
+sw.js syntax: OK
+manifest JSON: OK
+seed JSON: OK
+navigation: [('dashboard', 'Accueil'), ('portfolio', 'Positions'), ('operations', 'Opérations'), ('contributions', 'Apports'), ('settings', 'Réglages')] OK
+transferForm 4 fields: OK
+priceForm 2 fields: OK
+positionForm 14 fields: OK
+assetForm 11 fields: OK
+contributionForm 6 fields: OK
+quick actions order: OK
+HTML ids: OK
+icon-only button accessibility labels: OK
+Calculation outputs before/after: identical
+{
+  "total": 24514.385159092475,
+  "gain": -762.8348409075261,
+  "perf": -3.0178747540573134,
+  "firstPosition": {
+    "quantity": 0.14867309,
+    "cost": 4265.809999999058,
+    "averageCost": 28692.549539389125,
+    "value": 9553.771418403401,
+    "gain": 5287.961418404343,
+    "perf": 123.96148488576637
+  }
+}
+Backup compatibility: OK
+dashboard 4534
+portfolio 5893
+operations 309
+contributions 9477
+settings 7319
+All page render templates: OK
+Service worker install/activate/offline fallback: OK
+financial source functions unchanged: OK
+providers and fallbacks preserved: OK
+seed data byte-identical: OK
+service worker asset references: OK
+SVG references: OK
