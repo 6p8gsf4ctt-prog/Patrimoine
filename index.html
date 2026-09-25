@@ -12,7 +12,7 @@
   <link rel="manifest" href="./manifest.webmanifest">
   <link rel="apple-touch-icon" href="./assets/icons/icon-192.png">
   <link rel="icon" href="./assets/icons/icon-192.png">
-  <link rel="stylesheet" href="./styles.css?v=40">
+  <link rel="stylesheet" href="./styles.css?v=50">
   <title>Mon Patrimoine</title>
 </head>
 <body>
@@ -84,7 +84,7 @@
       <span class="overline">TRANSFERT</span>
       <h2>Changer de plateforme</h2>
       <label>Position<select name="positionId" required></select></label>
-      <label>Nouvelle plateforme / compte<input name="account" required placeholder="Binance, Bourse Direct…"></label>
+      <label>Nouvelle plateforme<select name="platformId" required></select></label>
       <label>Date<input name="date" type="date" required></label>
       <label>Note<textarea name="note" rows="2" placeholder="Transfert sans vente"></textarea></label>
       <div class="modal-actions"><button type="button" class="button secondary" data-close="transferDialog">Annuler</button><button class="button primary">Enregistrer</button></div>
@@ -116,17 +116,14 @@
       <input type="hidden" name="positionId"><input type="hidden" name="createMode" value="0">
       <span class="overline">POSITION</span>
       <h2 id="positionEditTitle">Modifier la position</h2>
-      <label>Symbole<input name="symbol" required maxlength="20" placeholder="BTC"></label>
-      <label>Nom de l’actif<input name="name" required placeholder="Bitcoin"></label>
-      <label>Univers<select name="category" required><option>Crypto</option><option>Bourse</option></select></label>
+      <label>Actif de référence<select name="assetId" required></select></label>
       <label>Nature<select name="assetType" required><option value="investment">Position investie</option><option value="stablecoin">Stablecoin en attente</option><option value="cash">Espèces / cash en attente</option></select></label>
-      <label>Compte / plateforme<input name="account" required placeholder="SwissBorg, Binance, Bourse Direct…"></label>
-      <label>Devise<select name="currency" required><option value="USD">Dollar américain (USD)</option><option value="EUR">Euro (EUR)</option></select></label>
+      <label>Plateforme<select name="platformId" required></select></label>
       <label>Quantité<input name="quantity" inputmode="decimal" type="number" step="any" min="0" required></label>
       <label>PRU<input name="averageCost" inputmode="decimal" type="number" step="any" min="0" required></label>
       <label>Cours actuel<input name="currentPrice" inputmode="decimal" type="number" step="any" min="0" required></label>
       <label>Date de la position initiale<input name="openingDate" type="date" required></label>
-      <label>Identifiant de marché<input name="marketId" placeholder="solana ou EQQQ.PA"></label><p class="form-hint compact-hint">CoinGecko pour la Crypto, symbole Yahoo Finance pour la Bourse.</p><label>Notes<textarea name="notes" rows="3"></textarea></label>
+      <p class="form-hint compact-hint">Les actifs et plateformes se gèrent dans Réglages → Référentiels.</p><label>Notes<textarea name="notes" rows="3"></textarea></label>
       <p class="form-hint">La modification de la quantité ou du PRU redéfinit le coût de revient initial de cette position. Les opérations enregistrées après la photographie initiale restent conservées.</p>
       <div class="modal-actions"><button type="button" class="button secondary" data-close="positionDialog">Annuler</button><button class="button primary">Enregistrer</button></div>
     </form>
@@ -140,10 +137,13 @@
       <label>Actif<select name="positionId" required></select></label>
       <label>Type<select name="type"><option value="BUY">Achat</option><option value="SELL">Vente</option><option value="REWARD">Récompense / intérêt</option><option value="ADJUSTMENT">Correction de quantité</option></select></label>
       <label>Date<input name="date" type="date" required></label>
-      <label>Quantité<input name="quantity" type="number" step="any" required></label>
-      <label>Prix unitaire<input name="unitPrice" type="number" step="any" required></label>
-      <label>Frais<input name="fees" type="number" step="any" value="0"></label>
-      <label>Note<textarea name="note" rows="2"></textarea></label><div id="linkedContributionBlock" class="linked-contribution hidden"><label class="check-row"><input type="checkbox" name="addContribution" value="1"><span>Enregistrer aussi un apport en euros</span></label><div class="linked-fields"><label>Montant de l’apport (€)<input name="contributionAmount" type="number" step="0.01" min="0"></label><label>Destination<input name="contributionDestination" placeholder="Binance, Bourse Direct…"></label></div></div>
+      <label>Quantité<input name="quantity" type="number" step="any" min="0"></label>
+      <label>Prix unitaire<input name="unitPrice" type="number" step="any" min="0"></label>
+      <label>Montant total<input name="totalAmount" type="number" step="any" min="0"></label>
+      <label>Devise de l’opération<select name="currency"><option value="USD">Dollar américain (USD)</option><option value="EUR">Euro (EUR)</option></select></label>
+      <label>Frais<input name="fees" type="number" step="any" min="0" value="0"></label>
+      <p class="form-hint compact-hint">Renseignez deux valeurs parmi quantité, prix unitaire et montant total : la troisième sera calculée automatiquement.</p>
+      <label>Note<textarea name="note" rows="2"></textarea></label><div id="linkedContributionBlock" class="linked-contribution hidden"><label class="check-row"><input type="checkbox" name="addContribution" value="1"><span>Enregistrer aussi un apport</span></label><div class="linked-fields"><label>Montant de l’apport (€)<input name="contributionAmount" type="number" step="0.01" min="0"></label><label>Plateforme<select name="contributionPlatformId"></select></label></div></div>
       <div class="modal-actions"><button type="button" class="button secondary" data-close="assetDialog">Annuler</button><button class="button primary">Enregistrer</button></div>
     </form>
   </dialog>
@@ -155,7 +155,7 @@
       <h2 id="contributionTitle">Ajouter un apport</h2>
       <label>Type d’investissement<select name="domain"><option>Crypto</option><option>Bourse</option></select></label>
       <label>Montant en euros<input name="amount" type="number" step="0.01" min="0" required></label>
-      <label>Destination<input name="destination" placeholder="Binance, SwissBorg, Bourse Direct…" required></label>
+      <label>Plateforme<select name="platformId" required></select></label>
       <label>Date<input name="date" type="date" required></label>
       <label>Note facultative<textarea name="note" rows="2"></textarea></label>
       <div class="modal-actions"><button type="button" class="button secondary" data-close="contributionDialog">Annuler</button><button class="button primary">Enregistrer</button></div>
@@ -172,6 +172,6 @@
   </dialog>
 
   <div id="toast" class="toast" role="status" aria-live="polite" aria-atomic="true"></div>
-  <script src="./app.js?v=40" defer></script>
+  <script src="./app.js?v=50" defer></script>
 </body>
 </html>
