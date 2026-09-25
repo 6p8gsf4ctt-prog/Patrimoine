@@ -1,4 +1,4 @@
-# Mise à jour 5.0.0
+# Mise à jour 5.1.0
 
 ## Installation
 
@@ -19,3 +19,11 @@ Avant publication, exportez vos données depuis Réglages → Exporter les donn�
 - Sélection normalisée des actifs et plateformes dans les nouvelles positions, apports et transferts.
 - Saisie d'achat/vente avec quantité, prix unitaire, montant total, devise et frais ; deux montants suffisent.
 - Affichage du cours unitaire dans les listes de positions.
+
+## Complément 5.1.0
+
+- Fusion automatique des variantes « Bourse Direct PEA » dans « Bourse Direct ».
+- Fusion automatique des variantes « Méria AAVE » et « Méria Staking » dans « Méria ».
+- Renommage global des actifs et plateformes depuis les Réglages, sans perte de données.
+- Suppression protégée : l'alerte affiche le nombre de positions, opérations et apports qui seront effacés.
+- Les cryptomonnaies n'affichent plus de contre-valeur ou de gain en euros dans les positions ; les actifs boursiers restent affichés en euros.
