@@ -1,4 +1,4 @@
-# Mise à jour 5.1.0
+# Mise à jour 5.2.0
 
 ## Installation
 
@@ -27,3 +27,10 @@ Avant publication, exportez vos données depuis Réglages → Exporter les donn�
 - Renommage global des actifs et plateformes depuis les Réglages, sans perte de données.
 - Suppression protégée : l'alerte affiche le nombre de positions, opérations et apports qui seront effacés.
 - Les cryptomonnaies n'affichent plus de contre-valeur ou de gain en euros dans les positions ; les actifs boursiers restent affichés en euros.
+
+## Complément 5.2.0
+
+- Zoom tactile et double-tap désactivés, sans bloquer le défilement vertical.
+- Gestes et boutons optimisés pour une interaction tactile immédiate.
+- Actualisation des cours effectuée en parallèle, avec un délai d'échec réduit et un état détaillé par fournisseur.
+- Bibliothèque locale de cryptomonnaies usuelles : Bitcoin, Ethereum, Solana, USDC, Tether, BNB, XRP, Cardano, Avalanche, Chainlink et bien d'autres. Les identifiants CoinGecko sont ajoutés automatiquement.
