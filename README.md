@@ -1,8 +1,8 @@
-# Mon Patrimoine — V4.0
+# Mon Patrimoine — V5.3
 
 Application PWA locale de suivi patrimonial, modernisée avec une interface sombre inspirée d’iOS et une identité violette propre à Patrimoine.
 
-## Continuité V3.5
+## Continuité des données
 
 La V4 conserve strictement :
 
@@ -14,14 +14,19 @@ La V4 conserve strictement :
 - le fonctionnement hors ligne et l’installation PWA ;
 - les anciennes sauvegardes V3.5.
 
-## Cotations automatiques
+## Cotations automatiques V5.3
 
-- Crypto : CoinGecko
-- USD/EUR : Frankfurter
-- Amundi MSCI World `EWLD.PA` : Yahoo Finance, avec secours Stooq
-- iShares Core S&P 500 `SXR8.DE` : Yahoo Finance, avec secours Stooq
+- Crypto : CoinGecko, une requête groupée et un cache de 5 minutes
+- USD/EUR : Frankfurter v2, avec un cache de 12 heures
+- ETF/actions : `assets/market-prices.json`, publié automatiquement par GitHub Actions
 
-Les derniers cours valides restent enregistrés localement et affichés en cas d’échec réseau.
+Les fournisseurs sont indépendants et disposent chacun de leur propre délai,
+diagnostic et date de dernière réussite. Les derniers cours valides restent
+enregistrés localement et affichés en cas d’échec réseau.
+
+Après installation, lancez une première fois le workflow **Actualiser les cours
+boursiers** dans l’onglet Actions du dépôt. La procédure complète se trouve dans
+`MISE_A_JOUR_V5_3.md`.
 
 ## Sauvegardes V4
 
