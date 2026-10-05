@@ -1,4 +1,4 @@
-# Mon Patrimoine — V5.3
+# Mon Patrimoine — V5.4
 
 Application PWA locale de suivi patrimonial, modernisée avec une interface sombre inspirée d’iOS et une identité violette propre à Patrimoine.
 
@@ -27,6 +27,14 @@ enregistrés localement et affichés en cas d’échec réseau.
 Après installation, lancez une première fois le workflow **Actualiser les cours
 boursiers** dans l’onglet Actions du dépôt. La procédure complète se trouve dans
 `MISE_A_JOUR_V5_3.md`.
+
+## Historique des opérations V5.4
+
+Les achats et ventes affichent désormais la quantité, le prix unitaire réellement
+enregistré, le montant total et les frais éventuels. Les anciennes opérations sont
+compatibles : le prix unitaire est reconstitué à partir du total et de la quantité
+lorsque ces deux données existent. La section Historique de la fiche d’un actif a
+également été espacée pour rester clairement séparée des boutons sur smartphone.
 
 ## Sauvegardes V4
 

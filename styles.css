@@ -234,10 +234,16 @@ dialog{color:var(--text)}dialog::backdrop{background:rgba(0,0,0,.68);-webkit-bac
 .asset-stat span{display:block;color:var(--muted);font-size:.77rem}.asset-stat strong{display:block;margin-top:6px;font-weight:690}
 .asset-stats:has(.asset-stat:nth-child(2):last-child){grid-template-columns:1fr 1fr}.asset-stats:has(.asset-stat:nth-child(2):last-child) .asset-stat{border-bottom:0}
 .sheet-actions{display:grid;gap:10px;margin-top:16px}
+.asset-history{margin-top:38px;padding-top:2px}
+.asset-history .section-title-row{align-items:flex-start;margin-bottom:15px}
 
 .operation-row{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:12px;padding:15px 18px;border-bottom:1px solid var(--line)}
 .operation-row:last-child{border-bottom:0}.operation-row span{display:block;color:var(--muted);font-size:.79rem;line-height:1.35}.operation-row strong{display:block;margin-bottom:4px;font-weight:660}
 .operation-amount{text-align:right}.row-actions{display:flex;justify-content:flex-end;gap:12px}
+.transaction-row{align-items:start}
+.operation-unit-price{color:var(--text)!important;font-size:.84rem!important;margin-top:9px}
+.operation-unit-price b{color:var(--muted);font-weight:590;margin-right:4px}
+.transaction-row .operation-amount span{margin-top:5px;white-space:nowrap}
 .note{padding:16px 18px;color:var(--muted);font-size:.83rem;line-height:1.45}.tap-caption{color:var(--muted);font-size:.76rem;text-align:center;margin-top:11px}
 
 .position-grid{display:grid;gap:12px}.position-card{width:100%;border:1px solid rgba(255,255,255,.025);color:inherit;text-align:left;padding:19px;background:var(--surface)}
@@ -301,6 +307,7 @@ dialog{color:var(--text)}dialog::backdrop{background:rgba(0,0,0,.68);-webkit-bac
   .icon-action{width:42px;height:42px;min-width:42px}.split-summary{grid-template-columns:1fr}.hero-meta{grid-template-columns:1fr}
   .hero-meta>div+div{border-left:0;padding-left:0}.list-row{padding:14px 15px}.simple-table th,.simple-table td{padding:13px 12px;font-size:.84rem}
   .modal-actions .button{flex:1}.sheet{padding-left:14px;padding-right:14px}.detail-year-head{display:block}.detail-year-total{display:block;padding:0 2px 12px;text-align:right}
+  .asset-history{margin-top:34px}.transaction-row{padding:17px 15px;gap:10px}.operation-unit-price{font-size:.82rem!important}
   .hero-value{font-size:clamp(2.35rem,11.5vw,3.5rem)}.asset-hero-value{font-size:2.35rem}.row-value span{font-size:.76rem}
 }
 @media(max-width:380px){
