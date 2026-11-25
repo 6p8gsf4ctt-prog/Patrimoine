@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T00:04:19.930711+00:00",
+  "generatedAt": "2026-11-25T08:20:19.623812+00:00",
   "source": "GitHub Actions / Yahoo Finance",
   "pending": false,
   "quotes": {
     "EWLD.PA": {
-      "price": 40.779998779296875,
+      "price": 40.119998931884766,
       "currency": "EUR",
       "label": "Amundi MSCI World",
-      "asOf": "2026-11-24T00:00:00+01:00",
+      "asOf": "2026-11-25T00:00:00+01:00",
       "source": "Yahoo Finance"
     },
     "SXR8.DE": {
-      "price": 718.6599731445312,
+      "price": 704.7000122070312,
       "currency": "EUR",
       "label": "Core S&P 500 USD (Acc)",
-      "asOf": "2026-11-24T00:00:00+01:00",
+      "asOf": "2026-11-25T00:00:00+01:00",
       "source": "Yahoo Finance"
     }
   },
